@@ -1,0 +1,3778 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{sundaram2017metal}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=27d28a9e933124150e80d8c6aa41f1a5}{%
+           family={Sundaram},
+           familyi={S\bibinitperiod},
+           given={Dilip},
+           giveni={D\bibinitperiod}}}%
+        {{hash=0228ebba3c5519fc8ae26bd247dd52e6}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Vigor},
+           giveni={V\bibinitperiod}}}%
+        {{hash=7d798c50eb191b39652a680686f18f22}{%
+           family={Yetter},
+           familyi={Y\bibinitperiod},
+           given={Richard\bibnamedelima A},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{90e71b870599c2c53ecd63e8d0fb74ac}
+      \strng{fullhash}{90e71b870599c2c53ecd63e8d0fb74ac}
+      \strng{fullhashraw}{90e71b870599c2c53ecd63e8d0fb74ac}
+      \strng{bibnamehash}{90e71b870599c2c53ecd63e8d0fb74ac}
+      \strng{authorbibnamehash}{90e71b870599c2c53ecd63e8d0fb74ac}
+      \strng{authornamehash}{90e71b870599c2c53ecd63e8d0fb74ac}
+      \strng{authorfullhash}{90e71b870599c2c53ecd63e8d0fb74ac}
+      \strng{authorfullhashraw}{90e71b870599c2c53ecd63e8d0fb74ac}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Progress in Energy and Combustion Science}
+      \field{title}{Metal-based nanoenergetic materials: synthesis, properties, and applications}
+      \field{volume}{61}
+      \field{year}{2017}
+      \field{pages}{293\bibrangedash 365}
+      \range{pages}{73}
+    \endentry
+    \entry{sutton2011rocket}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=f4c379ca1f257bc761a855fbe5466fc1}{%
+           family={Sutton},
+           familyi={S\bibinitperiod},
+           given={George\bibnamedelima P},
+           giveni={G\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=cd475bf69adc75d078ab151719775682}{%
+           family={Biblarz},
+           familyi={B\bibinitperiod},
+           given={Oscar},
+           giveni={O\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley \& Sons}%
+      }
+      \strng{namehash}{5afba9b1988771f2dc31a340ab906d72}
+      \strng{fullhash}{5afba9b1988771f2dc31a340ab906d72}
+      \strng{fullhashraw}{5afba9b1988771f2dc31a340ab906d72}
+      \strng{bibnamehash}{5afba9b1988771f2dc31a340ab906d72}
+      \strng{authorbibnamehash}{5afba9b1988771f2dc31a340ab906d72}
+      \strng{authornamehash}{5afba9b1988771f2dc31a340ab906d72}
+      \strng{authorfullhash}{5afba9b1988771f2dc31a340ab906d72}
+      \strng{authorfullhashraw}{5afba9b1988771f2dc31a340ab906d72}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Rocket propulsion elements}
+      \field{year}{2011}
+    \endentry
+    \entry{lide2005abundance}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=d97dcd83365ce91710f1cdba63d89b57}{%
+           family={Lide},
+           familyi={L\bibinitperiod},
+           given={David\bibnamedelima R},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {CRC Press Boca Raton, FL}%
+      }
+      \strng{namehash}{d97dcd83365ce91710f1cdba63d89b57}
+      \strng{fullhash}{d97dcd83365ce91710f1cdba63d89b57}
+      \strng{fullhashraw}{d97dcd83365ce91710f1cdba63d89b57}
+      \strng{bibnamehash}{d97dcd83365ce91710f1cdba63d89b57}
+      \strng{authorbibnamehash}{d97dcd83365ce91710f1cdba63d89b57}
+      \strng{authornamehash}{d97dcd83365ce91710f1cdba63d89b57}
+      \strng{authorfullhash}{d97dcd83365ce91710f1cdba63d89b57}
+      \strng{authorfullhashraw}{d97dcd83365ce91710f1cdba63d89b57}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{CRC handbook of chemistry and physics, Internet Version}
+      \field{title}{Abundance of Elements in the Earth’s Crust and in the Sea}
+      \field{year}{2005}
+      \field{pages}{14\bibrangedash 17}
+      \range{pages}{4}
+    \endentry
+    \entry{risha2007combustion}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=a75d6d50ed9d97d0ccd2664ea979a036}{%
+           family={Risha},
+           familyi={R\bibinitperiod},
+           given={Grant\bibnamedelima A},
+           giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=1282ee616731c22aa7b1d667b489bf3d}{%
+           family={Son},
+           familyi={S\bibinitperiod},
+           given={Steven\bibnamedelima F},
+           giveni={S\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=0b4cf51c8ecba0af3d2eaec1ffbfbb0c}{%
+           family={Yetter},
+           familyi={Y\bibinitperiod},
+           given={RA},
+           giveni={R\bibinitperiod}}}%
+        {{hash=0228ebba3c5519fc8ae26bd247dd52e6}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Vigor},
+           giveni={V\bibinitperiod}}}%
+        {{hash=1774b37c98c52c81e01fe696684ec1f0}{%
+           family={Tappan},
+           familyi={T\bibinitperiod},
+           given={BC},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{12e200278cd8397fe16c6e3494abe8b6}
+      \strng{fullhash}{1bb169dde89db370ddeb8817ebc6ca0e}
+      \strng{fullhashraw}{1bb169dde89db370ddeb8817ebc6ca0e}
+      \strng{bibnamehash}{12e200278cd8397fe16c6e3494abe8b6}
+      \strng{authorbibnamehash}{12e200278cd8397fe16c6e3494abe8b6}
+      \strng{authornamehash}{12e200278cd8397fe16c6e3494abe8b6}
+      \strng{authorfullhash}{1bb169dde89db370ddeb8817ebc6ca0e}
+      \strng{authorfullhashraw}{1bb169dde89db370ddeb8817ebc6ca0e}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the Combustion Institute}
+      \field{number}{2}
+      \field{title}{Combustion of nano-aluminum and liquid water}
+      \field{volume}{31}
+      \field{year}{2007}
+      \field{pages}{2029\bibrangedash 2036}
+      \range{pages}{8}
+    \endentry
+    \entry{sundaram2016general}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=a234f1f70fb05932d66e62e449f88be5}{%
+           family={Sundaram},
+           familyi={S\bibinitperiod},
+           given={Dilip\bibnamedelima Srinivas},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=9a2740b9a98bfb7c5c815b7983826f5e}{%
+           family={Puri},
+           familyi={P\bibinitperiod},
+           given={Puneesh},
+           giveni={P\bibinitperiod}}}%
+        {{hash=0228ebba3c5519fc8ae26bd247dd52e6}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Vigor},
+           giveni={V\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{889af086dfdc910aede5b8eb6fa13d53}
+      \strng{fullhash}{889af086dfdc910aede5b8eb6fa13d53}
+      \strng{fullhashraw}{889af086dfdc910aede5b8eb6fa13d53}
+      \strng{bibnamehash}{889af086dfdc910aede5b8eb6fa13d53}
+      \strng{authorbibnamehash}{889af086dfdc910aede5b8eb6fa13d53}
+      \strng{authornamehash}{889af086dfdc910aede5b8eb6fa13d53}
+      \strng{authorfullhash}{889af086dfdc910aede5b8eb6fa13d53}
+      \strng{authorfullhashraw}{889af086dfdc910aede5b8eb6fa13d53}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Combustion and Flame}
+      \field{title}{A general theory of ignition and combustion of nano-and micron-sized aluminum particles}
+      \field{volume}{169}
+      \field{year}{2016}
+      \field{pages}{94\bibrangedash 109}
+      \range{pages}{16}
+    \endentry
+    \entry{risha2008combustion}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=a75d6d50ed9d97d0ccd2664ea979a036}{%
+           family={Risha},
+           familyi={R\bibinitperiod},
+           given={Grant\bibnamedelima A},
+           giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=91dab2ce0eb0212d7eae91f15e63756a}{%
+           family={Sabourin},
+           familyi={S\bibinitperiod},
+           given={Justin\bibnamedelima L},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=0228ebba3c5519fc8ae26bd247dd52e6}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Vigor},
+           giveni={V\bibinitperiod}}}%
+        {{hash=7d798c50eb191b39652a680686f18f22}{%
+           family={Yetter},
+           familyi={Y\bibinitperiod},
+           given={Richard\bibnamedelima A},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=1282ee616731c22aa7b1d667b489bf3d}{%
+           family={Son},
+           familyi={S\bibinitperiod},
+           given={Steven\bibnamedelima F},
+           giveni={S\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=6cc8c360c918ae7f58b49e3cf82d48ab}{%
+           family={Tappan},
+           familyi={T\bibinitperiod},
+           given={Bryce\bibnamedelima C},
+           giveni={B\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{12e200278cd8397fe16c6e3494abe8b6}
+      \strng{fullhash}{203d4336773a73ede37022d34bc501cb}
+      \strng{fullhashraw}{203d4336773a73ede37022d34bc501cb}
+      \strng{bibnamehash}{12e200278cd8397fe16c6e3494abe8b6}
+      \strng{authorbibnamehash}{12e200278cd8397fe16c6e3494abe8b6}
+      \strng{authornamehash}{12e200278cd8397fe16c6e3494abe8b6}
+      \strng{authorfullhash}{203d4336773a73ede37022d34bc501cb}
+      \strng{authorfullhashraw}{203d4336773a73ede37022d34bc501cb}
+      \field{extraname}{2}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Combustion Science and Technology}
+      \field{number}{12}
+      \field{title}{Combustion and conversion efficiency of nanoaluminum-water mixtures}
+      \field{volume}{180}
+      \field{year}{2008}
+      \field{pages}{2127\bibrangedash 2142}
+      \range{pages}{16}
+    \endentry
+    \entry{sippel2013combustion}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=d182fd5cf52406ddf4aedec64a1c1650}{%
+           family={Sippel},
+           familyi={S\bibinitperiod},
+           given={Travis\bibnamedelima R},
+           giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=bcf2e9ac2426f4307b629a34faf1a97f}{%
+           family={Pourpoint},
+           familyi={P\bibinitperiod},
+           given={Timothée\bibnamedelima L},
+           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=1282ee616731c22aa7b1d667b489bf3d}{%
+           family={Son},
+           familyi={S\bibinitperiod},
+           given={Steven\bibnamedelima F},
+           giveni={S\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{4c81ac032ff6618390232d4930c563d0}
+      \strng{fullhash}{4c81ac032ff6618390232d4930c563d0}
+      \strng{fullhashraw}{4c81ac032ff6618390232d4930c563d0}
+      \strng{bibnamehash}{4c81ac032ff6618390232d4930c563d0}
+      \strng{authorbibnamehash}{4c81ac032ff6618390232d4930c563d0}
+      \strng{authornamehash}{4c81ac032ff6618390232d4930c563d0}
+      \strng{authorfullhash}{4c81ac032ff6618390232d4930c563d0}
+      \strng{authorfullhashraw}{4c81ac032ff6618390232d4930c563d0}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Propellants, Explosives, Pyrotechnics}
+      \field{number}{1}
+      \field{title}{Combustion of nanoaluminum and water propellants: effect of equivalence ratio and safety/aging characterization}
+      \field{volume}{38}
+      \field{year}{2013}
+      \field{pages}{56\bibrangedash 66}
+      \range{pages}{11}
+    \endentry
+    \entry{kittell2013dependence}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=63c1284f8ccc6cd45d149e61ad670592}{%
+           family={Kittell},
+           familyi={K\bibinitperiod},
+           given={David\bibnamedelima E},
+           giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=82fe3ab90aaccc691ef7438135ea2705}{%
+           family={Groven},
+           familyi={G\bibinitperiod},
+           given={Lori\bibnamedelima J},
+           giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=d182fd5cf52406ddf4aedec64a1c1650}{%
+           family={Sippel},
+           familyi={S\bibinitperiod},
+           given={Travis\bibnamedelima R},
+           giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=bcf2e9ac2426f4307b629a34faf1a97f}{%
+           family={Pourpoint},
+           familyi={P\bibinitperiod},
+           given={Timothée\bibnamedelima L},
+           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=1282ee616731c22aa7b1d667b489bf3d}{%
+           family={Son},
+           familyi={S\bibinitperiod},
+           given={Steven\bibnamedelima F},
+           giveni={S\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{00f3af5dc9446feb3f2121dd64c20c5c}
+      \strng{fullhash}{0644ed8b55d0e155609bf047bcb886eb}
+      \strng{fullhashraw}{0644ed8b55d0e155609bf047bcb886eb}
+      \strng{bibnamehash}{00f3af5dc9446feb3f2121dd64c20c5c}
+      \strng{authorbibnamehash}{00f3af5dc9446feb3f2121dd64c20c5c}
+      \strng{authornamehash}{00f3af5dc9446feb3f2121dd64c20c5c}
+      \strng{authorfullhash}{0644ed8b55d0e155609bf047bcb886eb}
+      \strng{authorfullhashraw}{0644ed8b55d0e155609bf047bcb886eb}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Combustion science and technology}
+      \field{number}{5}
+      \field{title}{Dependence of nano-aluminum and water propellant combustion on pH and rheology}
+      \field{volume}{185}
+      \field{year}{2013}
+      \field{pages}{817\bibrangedash 834}
+      \range{pages}{18}
+    \endentry
+    \entry{chakraborty2014nanoenergetic}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=2f8f08ca319ebe017d538ccc8dead7a1}{%
+           family={Chakraborty},
+           familyi={C\bibinitperiod},
+           given={Purnendu},
+           giveni={P\bibinitperiod}}}%
+        {{hash=73126e91c512cee782156eb0860bcc00}{%
+           family={Zachariah},
+           familyi={Z\bibinitperiod},
+           given={Michael\bibnamedelima R},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{956bf6bf6560f535d089d0cb0fda5ff0}
+      \strng{fullhash}{956bf6bf6560f535d089d0cb0fda5ff0}
+      \strng{fullhashraw}{956bf6bf6560f535d089d0cb0fda5ff0}
+      \strng{bibnamehash}{956bf6bf6560f535d089d0cb0fda5ff0}
+      \strng{authorbibnamehash}{956bf6bf6560f535d089d0cb0fda5ff0}
+      \strng{authornamehash}{956bf6bf6560f535d089d0cb0fda5ff0}
+      \strng{authorfullhash}{956bf6bf6560f535d089d0cb0fda5ff0}
+      \strng{authorfullhashraw}{956bf6bf6560f535d089d0cb0fda5ff0}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Combustion and flame}
+      \field{number}{5}
+      \field{title}{Do nanoenergetic particles remain nano-sized during combustion?}
+      \field{volume}{161}
+      \field{year}{2014}
+      \field{pages}{1408\bibrangedash 1416}
+      \range{pages}{9}
+    \endentry
+    \entry{beckstead2005correlating}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=fe2b156ce609b7cb79a4e13d9a65b326}{%
+           family={Beckstead},
+           familyi={B\bibinitperiod},
+           given={MW},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{fe2b156ce609b7cb79a4e13d9a65b326}
+      \strng{fullhash}{fe2b156ce609b7cb79a4e13d9a65b326}
+      \strng{fullhashraw}{fe2b156ce609b7cb79a4e13d9a65b326}
+      \strng{bibnamehash}{fe2b156ce609b7cb79a4e13d9a65b326}
+      \strng{authorbibnamehash}{fe2b156ce609b7cb79a4e13d9a65b326}
+      \strng{authornamehash}{fe2b156ce609b7cb79a4e13d9a65b326}
+      \strng{authorfullhash}{fe2b156ce609b7cb79a4e13d9a65b326}
+      \strng{authorfullhashraw}{fe2b156ce609b7cb79a4e13d9a65b326}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Combustion, Explosion and Shock Waves}
+      \field{title}{Correlating aluminum burning times}
+      \field{volume}{41}
+      \field{year}{2005}
+      \field{pages}{533\bibrangedash 546}
+      \range{pages}{14}
+    \endentry
+    \entry{huang2009effect}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=07da2ad0d080188097acdb1ce63432a9}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Ying},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=a75d6d50ed9d97d0ccd2664ea979a036}{%
+           family={Risha},
+           familyi={R\bibinitperiod},
+           given={Grant\bibnamedelima A},
+           giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=0228ebba3c5519fc8ae26bd247dd52e6}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Vigor},
+           giveni={V\bibinitperiod}}}%
+        {{hash=7d798c50eb191b39652a680686f18f22}{%
+           family={Yetter},
+           familyi={Y\bibinitperiod},
+           given={Richard\bibnamedelima A},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{00fc94ef2511554270ea11c67f8ae18c}
+      \strng{fullhash}{b30cf4b3a8a5bb10a6e6f9f554090603}
+      \strng{fullhashraw}{b30cf4b3a8a5bb10a6e6f9f554090603}
+      \strng{bibnamehash}{00fc94ef2511554270ea11c67f8ae18c}
+      \strng{authorbibnamehash}{00fc94ef2511554270ea11c67f8ae18c}
+      \strng{authornamehash}{00fc94ef2511554270ea11c67f8ae18c}
+      \strng{authorfullhash}{b30cf4b3a8a5bb10a6e6f9f554090603}
+      \strng{authorfullhashraw}{b30cf4b3a8a5bb10a6e6f9f554090603}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Combustion and Flame}
+      \field{number}{1}
+      \field{title}{Effect of particle size on combustion of aluminum particle dust in air}
+      \field{volume}{156}
+      \field{year}{2009}
+      \field{pages}{5\bibrangedash 13}
+      \range{pages}{9}
+    \endentry
+    \entry{miller2004green}{inproceedings}{}{}
+      \name{author}{2}{}{%
+        {{hash=fbfa75069bfa84876efcad51010ae54f}{%
+           family={Miller},
+           familyi={M\bibinitperiod},
+           given={Timothy},
+           giveni={T\bibinitperiod}}}%
+        {{hash=57097e5ab9173b0d925525aecc6464ed}{%
+           family={Herr},
+           familyi={H\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{1ea77792612610bdb8055a084cd1d8a2}
+      \strng{fullhash}{1ea77792612610bdb8055a084cd1d8a2}
+      \strng{fullhashraw}{1ea77792612610bdb8055a084cd1d8a2}
+      \strng{bibnamehash}{1ea77792612610bdb8055a084cd1d8a2}
+      \strng{authorbibnamehash}{1ea77792612610bdb8055a084cd1d8a2}
+      \strng{authornamehash}{1ea77792612610bdb8055a084cd1d8a2}
+      \strng{authorfullhash}{1ea77792612610bdb8055a084cd1d8a2}
+      \strng{authorfullhashraw}{1ea77792612610bdb8055a084cd1d8a2}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{40th AIAA/ASME/SAE/ASEE Joint Propulsion Conference and Exhibit}
+      \field{title}{Green rocket propulsion by reaction of Al and Mg powders and water}
+      \field{year}{2004}
+      \field{pages}{4037}
+      \range{pages}{1}
+    \endentry
+    \entry{connell2011combustion}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=b4e30a05458d30870169d2aef85c9113}{%
+           family={Connell\bibnamedelima Jr},
+           familyi={C\bibinitperiod\bibinitdelim J\bibinitperiod},
+           given={Terrence\bibnamedelima L},
+           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=a75d6d50ed9d97d0ccd2664ea979a036}{%
+           family={Risha},
+           familyi={R\bibinitperiod},
+           given={Grant\bibnamedelima A},
+           giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=7d798c50eb191b39652a680686f18f22}{%
+           family={Yetter},
+           familyi={Y\bibinitperiod},
+           given={Richard\bibnamedelima A},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=5f986fb349986fc370052aa4491be906}{%
+           family={Young},
+           familyi={Y\bibinitperiod},
+           given={Gregory},
+           giveni={G\bibinitperiod}}}%
+        {{hash=e290ba01e2ef094087f0b238bf3ff72a}{%
+           family={Sundaram},
+           familyi={S\bibinitperiod},
+           given={Dilip\bibnamedelima S},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=0228ebba3c5519fc8ae26bd247dd52e6}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Vigor},
+           giveni={V\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{998b3a1cb063787e834f3d603b3d42eb}
+      \strng{fullhash}{12b5be477751f26bcda55240084f1823}
+      \strng{fullhashraw}{12b5be477751f26bcda55240084f1823}
+      \strng{bibnamehash}{998b3a1cb063787e834f3d603b3d42eb}
+      \strng{authorbibnamehash}{998b3a1cb063787e834f3d603b3d42eb}
+      \strng{authornamehash}{998b3a1cb063787e834f3d603b3d42eb}
+      \strng{authorfullhash}{12b5be477751f26bcda55240084f1823}
+      \strng{authorfullhashraw}{12b5be477751f26bcda55240084f1823}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the Combustion Institute}
+      \field{number}{2}
+      \field{title}{Combustion of alane and aluminum with water for hydrogen and thermal energy generation}
+      \field{volume}{33}
+      \field{year}{2011}
+      \field{pages}{1957\bibrangedash 1965}
+      \range{pages}{9}
+    \endentry
+    \entry{satyapal2007us}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=b67be3d7e495bdcc7050a9e11ee973d2}{%
+           family={Satyapal},
+           familyi={S\bibinitperiod},
+           given={Sunita},
+           giveni={S\bibinitperiod}}}%
+        {{hash=5f96c86746454591f6f331b711811a4d}{%
+           family={Petrovic},
+           familyi={P\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+        {{hash=e8b9ce64e29c570f9a3a3c3d19dd8500}{%
+           family={Read},
+           familyi={R\bibinitperiod},
+           given={Carole},
+           giveni={C\bibinitperiod}}}%
+        {{hash=d4d7e16fce2de5f91ab0a686d4a8d3ea}{%
+           family={Thomas},
+           familyi={T\bibinitperiod},
+           given={George},
+           giveni={G\bibinitperiod}}}%
+        {{hash=a905a7c06876b76173c15306dca0a837}{%
+           family={Ordaz},
+           familyi={O\bibinitperiod},
+           given={Grace},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{45f3b98c394e7d3a85f46032fef26f90}
+      \strng{fullhash}{5db7c5e5144f94a5b31652dda43fb7d8}
+      \strng{fullhashraw}{5db7c5e5144f94a5b31652dda43fb7d8}
+      \strng{bibnamehash}{45f3b98c394e7d3a85f46032fef26f90}
+      \strng{authorbibnamehash}{45f3b98c394e7d3a85f46032fef26f90}
+      \strng{authornamehash}{45f3b98c394e7d3a85f46032fef26f90}
+      \strng{authorfullhash}{5db7c5e5144f94a5b31652dda43fb7d8}
+      \strng{authorfullhashraw}{5db7c5e5144f94a5b31652dda43fb7d8}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Catalysis today}
+      \field{number}{3-4}
+      \field{title}{The US Department of Energy's National Hydrogen Storage Project: Progress towards meeting hydrogen-powered vehicle requirements}
+      \field{volume}{120}
+      \field{year}{2007}
+      \field{pages}{246\bibrangedash 256}
+      \range{pages}{11}
+    \endentry
+    \entry{shafirovich2006combustion}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=5d31ef831040bf25e80a3145311ee9ae}{%
+           family={Shafirovich},
+           familyi={S\bibinitperiod},
+           given={Evgeny},
+           giveni={E\bibinitperiod}}}%
+        {{hash=c788026c4f8c6a110d0efedca310f62a}{%
+           family={Diakov},
+           familyi={D\bibinitperiod},
+           given={Victor},
+           giveni={V\bibinitperiod}}}%
+        {{hash=0c1e0d9eaf4cc387b2d03ddaf6caa368}{%
+           family={Varma},
+           familyi={V\bibinitperiod},
+           given={Arvind},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{1d953b9dc3568e02b44ad641857e29cc}
+      \strng{fullhash}{1d953b9dc3568e02b44ad641857e29cc}
+      \strng{fullhashraw}{1d953b9dc3568e02b44ad641857e29cc}
+      \strng{bibnamehash}{1d953b9dc3568e02b44ad641857e29cc}
+      \strng{authorbibnamehash}{1d953b9dc3568e02b44ad641857e29cc}
+      \strng{authornamehash}{1d953b9dc3568e02b44ad641857e29cc}
+      \strng{authorfullhash}{1d953b9dc3568e02b44ad641857e29cc}
+      \strng{authorfullhashraw}{1d953b9dc3568e02b44ad641857e29cc}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Combustion and Flame}
+      \field{number}{1-2}
+      \field{title}{Combustion of novel chemical mixtures for hydrogen generation}
+      \field{volume}{144}
+      \field{year}{2006}
+    \endentry
+    \entry{pourpoint2012feasibility}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=8af5cd5603b03dda1def407661528889}{%
+           family={Pourpoint},
+           familyi={P\bibinitperiod},
+           given={Timothee\bibnamedelima L},
+           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=27dfc2cdb18e2605ec4fd3d1af088198}{%
+           family={Wood},
+           familyi={W\bibinitperiod},
+           given={Tyler\bibnamedelima D},
+           giveni={T\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=4f1c8320bda429a94fcd86728af7c055}{%
+           family={Pfeil},
+           familyi={P\bibinitperiod},
+           given={Mark\bibnamedelima A},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=453f09e2f6152cdcf007e8d233bf04c2}{%
+           family={Tsohas},
+           familyi={T\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+        {{hash=1282ee616731c22aa7b1d667b489bf3d}{%
+           family={Son},
+           familyi={S\bibinitperiod},
+           given={Steven\bibnamedelima F},
+           giveni={S\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{40a46aa55af4e5cd5980fb0e3d0fce45}
+      \strng{fullhash}{1ac5621c265528f8d0abc705b31a2285}
+      \strng{fullhashraw}{1ac5621c265528f8d0abc705b31a2285}
+      \strng{bibnamehash}{40a46aa55af4e5cd5980fb0e3d0fce45}
+      \strng{authorbibnamehash}{40a46aa55af4e5cd5980fb0e3d0fce45}
+      \strng{authornamehash}{40a46aa55af4e5cd5980fb0e3d0fce45}
+      \strng{authorfullhash}{1ac5621c265528f8d0abc705b31a2285}
+      \strng{authorfullhashraw}{1ac5621c265528f8d0abc705b31a2285}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Aerospace Engineering}
+      \field{number}{1}
+      \field{title}{Feasibility study and demonstration of an aluminum and ice solid propellant}
+      \field{volume}{2012}
+      \field{year}{2012}
+      \field{pages}{874076}
+      \range{pages}{1}
+    \endentry
+    \entry{franson2009new}{article}{}{}
+      \name{author}{7}{}{%
+        {{hash=271ab6cfbe0687b9e77108dd7ada2af4}{%
+           family={Franson},
+           familyi={F\bibinitperiod},
+           given={C},
+           giveni={C\bibinitperiod}}}%
+        {{hash=6dc1cb87c4337aefe81a2d83e8af7220}{%
+           family={Orlandi},
+           familyi={O\bibinitperiod},
+           given={O},
+           giveni={O\bibinitperiod}}}%
+        {{hash=365049224466fbbd4ca4ce35b5c8ac48}{%
+           family={Perut},
+           familyi={P\bibinitperiod},
+           given={C},
+           giveni={C\bibinitperiod}}}%
+        {{hash=026e3c89e3ec9b53d03e4ca87279ae0b}{%
+           family={Fouin},
+           familyi={F\bibinitperiod},
+           given={G},
+           giveni={G\bibinitperiod}}}%
+        {{hash=9f3393e84e7a5b2205f980ffcb0b70c8}{%
+           family={Chauveau},
+           familyi={C\bibinitperiod},
+           given={C},
+           giveni={C\bibinitperiod}}}%
+        {{hash=5d97a5874064aaecd91db40408b8f1df}{%
+           family={Gökalp},
+           familyi={G\bibinitperiod},
+           given={I},
+           giveni={I\bibinitperiod}}}%
+        {{hash=4c2513f1beb61626a088903aacc7aa74}{%
+           family={Calabro},
+           familyi={C\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {EDP Sciences}%
+      }
+      \strng{namehash}{21817491541e4b84e197fa14a55deb8a}
+      \strng{fullhash}{1e5dfe5db6b7e42466d736e71d94010f}
+      \strng{fullhashraw}{1e5dfe5db6b7e42466d736e71d94010f}
+      \strng{bibnamehash}{21817491541e4b84e197fa14a55deb8a}
+      \strng{authorbibnamehash}{21817491541e4b84e197fa14a55deb8a}
+      \strng{authornamehash}{21817491541e4b84e197fa14a55deb8a}
+      \strng{authorfullhash}{1e5dfe5db6b7e42466d736e71d94010f}
+      \strng{authorfullhashraw}{1e5dfe5db6b7e42466d736e71d94010f}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Progress in Propulsion Physics}
+      \field{title}{New high energetic composite propellants for space applications: refrigerated solid propellant}
+      \field{volume}{1}
+      \field{year}{2009}
+      \field{pages}{31\bibrangedash 46}
+      \range{pages}{16}
+    \endentry
+    \entry{sundaram2013effects}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=a234f1f70fb05932d66e62e449f88be5}{%
+           family={Sundaram},
+           familyi={S\bibinitperiod},
+           given={Dilip\bibnamedelima Srinivas},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=0228ebba3c5519fc8ae26bd247dd52e6}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Vigor},
+           giveni={V\bibinitperiod}}}%
+        {{hash=07da2ad0d080188097acdb1ce63432a9}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Ying},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=a75d6d50ed9d97d0ccd2664ea979a036}{%
+           family={Risha},
+           familyi={R\bibinitperiod},
+           given={Grant\bibnamedelima A},
+           giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=7d798c50eb191b39652a680686f18f22}{%
+           family={Yetter},
+           familyi={Y\bibinitperiod},
+           given={Richard\bibnamedelima A},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{7a0816d0bcb78e3b110a2e3ffd327179}
+      \strng{fullhash}{49c7cb4ccbda06a71d2013b9e39c9a5f}
+      \strng{fullhashraw}{49c7cb4ccbda06a71d2013b9e39c9a5f}
+      \strng{bibnamehash}{7a0816d0bcb78e3b110a2e3ffd327179}
+      \strng{authorbibnamehash}{7a0816d0bcb78e3b110a2e3ffd327179}
+      \strng{authornamehash}{7a0816d0bcb78e3b110a2e3ffd327179}
+      \strng{authorfullhash}{49c7cb4ccbda06a71d2013b9e39c9a5f}
+      \strng{authorfullhashraw}{49c7cb4ccbda06a71d2013b9e39c9a5f}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Combustion and Flame}
+      \field{number}{10}
+      \field{title}{Effects of particle size and pressure on combustion of nano-aluminum particles and liquid water}
+      \field{volume}{160}
+      \field{year}{2013}
+      \field{pages}{2251\bibrangedash 2259}
+      \range{pages}{9}
+    \endentry
+    \entry{diwan2010combustion}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=727be09da0f0053cd268c9a2c98eb08b}{%
+           family={Diwan},
+           familyi={D\bibinitperiod},
+           given={Moiz},
+           giveni={M\bibinitperiod}}}%
+        {{hash=fcdb2887caaf41e5e4843578e5eb69c9}{%
+           family={Hanna},
+           familyi={H\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=5d31ef831040bf25e80a3145311ee9ae}{%
+           family={Shafirovich},
+           familyi={S\bibinitperiod},
+           given={Evgeny},
+           giveni={E\bibinitperiod}}}%
+        {{hash=0c1e0d9eaf4cc387b2d03ddaf6caa368}{%
+           family={Varma},
+           familyi={V\bibinitperiod},
+           given={Arvind},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{bd1be53c0a9cbdffa53b2f682352c235}
+      \strng{fullhash}{b5a52919a5c795e56adbb093391414fd}
+      \strng{fullhashraw}{b5a52919a5c795e56adbb093391414fd}
+      \strng{bibnamehash}{bd1be53c0a9cbdffa53b2f682352c235}
+      \strng{authorbibnamehash}{bd1be53c0a9cbdffa53b2f682352c235}
+      \strng{authornamehash}{bd1be53c0a9cbdffa53b2f682352c235}
+      \strng{authorfullhash}{b5a52919a5c795e56adbb093391414fd}
+      \strng{authorfullhashraw}{b5a52919a5c795e56adbb093391414fd}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Chemical engineering science}
+      \field{number}{1}
+      \field{title}{Combustion wave propagation in magnesium/water mixtures: experiments and model}
+      \field{volume}{65}
+      \field{year}{2010}
+      \field{pages}{80\bibrangedash 87}
+      \range{pages}{8}
+    \endentry
+    \entry{ivanov2000specific}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=e49a010f90e05759d49ad0509b7fdc07}{%
+           family={Ivanov},
+           familyi={I\bibinitperiod},
+           given={VG},
+           giveni={V\bibinitperiod}}}%
+        {{hash=37e920c5194bd36159be534d9c901936}{%
+           family={Gavrilyuk},
+           familyi={G\bibinitperiod},
+           given={OV},
+           giveni={O\bibinitperiod}}}%
+        {{hash=26ea55854c1691c98262d28fde3a6e10}{%
+           family={Glazkov},
+           familyi={G\bibinitperiod},
+           given={OV},
+           giveni={O\bibinitperiod}}}%
+        {{hash=278ccbe39d407aed949ca749d91d68bc}{%
+           family={Safronov},
+           familyi={S\bibinitperiod},
+           given={MN},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{5e36418a1251c3d44617c79d504c685d}
+      \strng{fullhash}{5541b05db89b2140289bd75ceb7f1c69}
+      \strng{fullhashraw}{5541b05db89b2140289bd75ceb7f1c69}
+      \strng{bibnamehash}{5e36418a1251c3d44617c79d504c685d}
+      \strng{authorbibnamehash}{5e36418a1251c3d44617c79d504c685d}
+      \strng{authornamehash}{5e36418a1251c3d44617c79d504c685d}
+      \strng{authorfullhash}{5541b05db89b2140289bd75ceb7f1c69}
+      \strng{authorfullhashraw}{5541b05db89b2140289bd75ceb7f1c69}
+      \field{extraname}{1}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Combustion, Explosion and Shock Waves}
+      \field{title}{Specific features of the reaction between ultrafine aluminum and water in a combustion regime}
+      \field{volume}{36}
+      \field{year}{2000}
+      \field{pages}{213\bibrangedash 219}
+      \range{pages}{7}
+    \endentry
+    \entry{zaseck2013combustion}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=1e46e9b0356c3f4ac56e4824ebae4884}{%
+           family={Zaseck},
+           familyi={Z\bibinitperiod},
+           given={Christopher\bibnamedelima R},
+           giveni={C\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=1282ee616731c22aa7b1d667b489bf3d}{%
+           family={Son},
+           familyi={S\bibinitperiod},
+           given={Steven\bibnamedelima F},
+           giveni={S\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=bcf2e9ac2426f4307b629a34faf1a97f}{%
+           family={Pourpoint},
+           familyi={P\bibinitperiod},
+           given={Timothée\bibnamedelima L},
+           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{58ba0370d5dc7cee338252bfd89339df}
+      \strng{fullhash}{58ba0370d5dc7cee338252bfd89339df}
+      \strng{fullhashraw}{58ba0370d5dc7cee338252bfd89339df}
+      \strng{bibnamehash}{58ba0370d5dc7cee338252bfd89339df}
+      \strng{authorbibnamehash}{58ba0370d5dc7cee338252bfd89339df}
+      \strng{authornamehash}{58ba0370d5dc7cee338252bfd89339df}
+      \strng{authorfullhash}{58ba0370d5dc7cee338252bfd89339df}
+      \strng{authorfullhashraw}{58ba0370d5dc7cee338252bfd89339df}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Combustion and Flame}
+      \field{number}{1}
+      \field{title}{Combustion of micron-aluminum and hydrogen peroxide propellants}
+      \field{volume}{160}
+      \field{year}{2013}
+      \field{pages}{184\bibrangedash 190}
+      \range{pages}{7}
+    \endentry
+    \entry{sundaram2014effects}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=a234f1f70fb05932d66e62e449f88be5}{%
+           family={Sundaram},
+           familyi={S\bibinitperiod},
+           given={Dilip\bibnamedelima Srinivas},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=0228ebba3c5519fc8ae26bd247dd52e6}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Vigor},
+           giveni={V\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{7357bc3d4944c8232b6dab53f83399ff}
+      \strng{fullhash}{7357bc3d4944c8232b6dab53f83399ff}
+      \strng{fullhashraw}{7357bc3d4944c8232b6dab53f83399ff}
+      \strng{bibnamehash}{7357bc3d4944c8232b6dab53f83399ff}
+      \strng{authorbibnamehash}{7357bc3d4944c8232b6dab53f83399ff}
+      \strng{authornamehash}{7357bc3d4944c8232b6dab53f83399ff}
+      \strng{authorfullhash}{7357bc3d4944c8232b6dab53f83399ff}
+      \strng{authorfullhashraw}{7357bc3d4944c8232b6dab53f83399ff}
+      \field{extraname}{1}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Combustion and flame}
+      \field{number}{8}
+      \field{title}{Effects of entrainment and agglomeration of particles on combustion of nano-aluminum and water mixtures}
+      \field{volume}{161}
+      \field{year}{2014}
+      \field{pages}{2215\bibrangedash 2217}
+      \range{pages}{3}
+    \endentry
+    \entry{ticha2005predictive}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=69212210f1541bc147d5fddfbe5a9bb2}{%
+           family={Tichá},
+           familyi={T\bibinitperiod},
+           given={G},
+           giveni={G\bibinitperiod}}}%
+        {{hash=c8a2db021f0181d2f920adfddd179310}{%
+           family={Pabst},
+           familyi={P\bibinitperiod},
+           given={W},
+           giveni={W\bibinitperiod}}}%
+        {{hash=db652b6cff6362da92179cb509e1d268}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={DS},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Nature BV}%
+      }
+      \strng{namehash}{62b7b03b6314fbce2cf33189bbfa2dec}
+      \strng{fullhash}{62b7b03b6314fbce2cf33189bbfa2dec}
+      \strng{fullhashraw}{62b7b03b6314fbce2cf33189bbfa2dec}
+      \strng{bibnamehash}{62b7b03b6314fbce2cf33189bbfa2dec}
+      \strng{authorbibnamehash}{62b7b03b6314fbce2cf33189bbfa2dec}
+      \strng{authornamehash}{62b7b03b6314fbce2cf33189bbfa2dec}
+      \strng{authorfullhash}{62b7b03b6314fbce2cf33189bbfa2dec}
+      \strng{authorfullhashraw}{62b7b03b6314fbce2cf33189bbfa2dec}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Materials Science}
+      \field{number}{18}
+      \field{title}{Predictive model for the thermal conductivity of porous materials with matrix-inclusion type microstructure}
+      \field{volume}{40}
+      \field{year}{2005}
+      \field{pages}{5045\bibrangedash 5047}
+      \range{pages}{3}
+    \endentry
+    \entry{sundaram2014combustion}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=a234f1f70fb05932d66e62e449f88be5}{%
+           family={Sundaram},
+           familyi={S\bibinitperiod},
+           given={Dilip\bibnamedelima Srinivas},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=0228ebba3c5519fc8ae26bd247dd52e6}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Vigor},
+           giveni={V\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{7357bc3d4944c8232b6dab53f83399ff}
+      \strng{fullhash}{7357bc3d4944c8232b6dab53f83399ff}
+      \strng{fullhashraw}{7357bc3d4944c8232b6dab53f83399ff}
+      \strng{bibnamehash}{7357bc3d4944c8232b6dab53f83399ff}
+      \strng{authorbibnamehash}{7357bc3d4944c8232b6dab53f83399ff}
+      \strng{authornamehash}{7357bc3d4944c8232b6dab53f83399ff}
+      \strng{authorfullhash}{7357bc3d4944c8232b6dab53f83399ff}
+      \strng{authorfullhashraw}{7357bc3d4944c8232b6dab53f83399ff}
+      \field{extraname}{2}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Combustion and flame}
+      \field{number}{9}
+      \field{title}{Combustion of micron-sized aluminum particle, liquid water, and hydrogen peroxide mixtures}
+      \field{volume}{161}
+      \field{year}{2014}
+      \field{pages}{2469\bibrangedash 2478}
+      \range{pages}{10}
+    \endentry
+    \entry{carey2018liquid}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=038e00a39d439ab7b40b63e676440141}{%
+           family={Carey},
+           familyi={C\bibinitperiod},
+           given={Van\bibnamedelima P},
+           giveni={V\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {CRC Press}%
+      }
+      \strng{namehash}{038e00a39d439ab7b40b63e676440141}
+      \strng{fullhash}{038e00a39d439ab7b40b63e676440141}
+      \strng{fullhashraw}{038e00a39d439ab7b40b63e676440141}
+      \strng{bibnamehash}{038e00a39d439ab7b40b63e676440141}
+      \strng{authorbibnamehash}{038e00a39d439ab7b40b63e676440141}
+      \strng{authornamehash}{038e00a39d439ab7b40b63e676440141}
+      \strng{authorfullhash}{038e00a39d439ab7b40b63e676440141}
+      \strng{authorfullhashraw}{038e00a39d439ab7b40b63e676440141}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Liquid-vapor phase-change phenomena: an introduction to the thermophysics of vaporization and condensation processes in heat transfer equipment}
+      \field{year}{2018}
+    \endentry
+    \entry{ivanov1994combustion}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=e49a010f90e05759d49ad0509b7fdc07}{%
+           family={Ivanov},
+           familyi={I\bibinitperiod},
+           given={VG},
+           giveni={V\bibinitperiod}}}%
+        {{hash=5c8bc793e401f3177f588ce2d2b3d626}{%
+           family={Leonov},
+           familyi={L\bibinitperiod},
+           given={SN},
+           giveni={S\bibinitperiod}}}%
+        {{hash=9fe8e63243d44bf341529705e8999d32}{%
+           family={Savinov},
+           familyi={S\bibinitperiod},
+           given={GL},
+           giveni={G\bibinitperiod}}}%
+        {{hash=37e920c5194bd36159be534d9c901936}{%
+           family={Gavrilyuk},
+           familyi={G\bibinitperiod},
+           given={OV},
+           giveni={O\bibinitperiod}}}%
+        {{hash=26ea55854c1691c98262d28fde3a6e10}{%
+           family={Glazkov},
+           familyi={G\bibinitperiod},
+           given={OV},
+           giveni={O\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{5e36418a1251c3d44617c79d504c685d}
+      \strng{fullhash}{5eef993526b9d3e1bfe65c8af2580a8a}
+      \strng{fullhashraw}{5eef993526b9d3e1bfe65c8af2580a8a}
+      \strng{bibnamehash}{5e36418a1251c3d44617c79d504c685d}
+      \strng{authorbibnamehash}{5e36418a1251c3d44617c79d504c685d}
+      \strng{authornamehash}{5e36418a1251c3d44617c79d504c685d}
+      \strng{authorfullhash}{5eef993526b9d3e1bfe65c8af2580a8a}
+      \strng{authorfullhashraw}{5eef993526b9d3e1bfe65c8af2580a8a}
+      \field{extraname}{2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Combustion, Explosion and Shock Waves}
+      \field{number}{4}
+      \field{title}{Combustion of mixtures of ultradisperse aluminum and gel-like water}
+      \field{volume}{30}
+      \field{year}{1994}
+      \field{pages}{569\bibrangedash 570}
+      \range{pages}{2}
+    \endentry
+    \entry{crowe2011multiphase}{book}{}{}
+      \name{author}{4}{}{%
+        {{hash=9ad7fe9c1931eeafd26c17236d025a56}{%
+           family={Crowe},
+           familyi={C\bibinitperiod},
+           given={Clayton\bibnamedelima T},
+           giveni={C\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=393190971f7b0f6368ee5762721f855c}{%
+           family={Schwarzkopf},
+           familyi={S\bibinitperiod},
+           given={John\bibnamedelima D},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=f087df6c54edfcbb8d0f155824a4e777}{%
+           family={Sommerfeld},
+           familyi={S\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+        {{hash=31323918365b3a4815118fa7d661db7b}{%
+           family={Tsuji},
+           familyi={T\bibinitperiod},
+           given={Yutaka},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {CRC press}%
+      }
+      \strng{namehash}{8a83753186271ad2cfed1e8e588b24cf}
+      \strng{fullhash}{f0ab88d2d31eb8ed76f96a200d31de54}
+      \strng{fullhashraw}{f0ab88d2d31eb8ed76f96a200d31de54}
+      \strng{bibnamehash}{8a83753186271ad2cfed1e8e588b24cf}
+      \strng{authorbibnamehash}{8a83753186271ad2cfed1e8e588b24cf}
+      \strng{authornamehash}{8a83753186271ad2cfed1e8e588b24cf}
+      \strng{authorfullhash}{f0ab88d2d31eb8ed76f96a200d31de54}
+      \strng{authorfullhashraw}{f0ab88d2d31eb8ed76f96a200d31de54}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Multiphase flows with droplets and particles}
+      \field{year}{2011}
+    \endentry
+    \entry{rosenband1998magnesium}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=6fe492781843213e423b3c6fd297a98f}{%
+           family={Rosenband},
+           familyi={R\bibinitperiod},
+           given={V},
+           giveni={V\bibinitperiod}}}%
+        {{hash=ff1ee818f9292bc1f66a47a2401dee51}{%
+           family={Gany},
+           familyi={G\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=2f65c102364f554aad94a58dcf227fde}{%
+           family={Timnat},
+           familyi={T\bibinitperiod},
+           given={YM},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Defence Scientific Information \& Documentation Centre}%
+      }
+      \strng{namehash}{0f23430fa29fae9d6b37d5a7852ff4c7}
+      \strng{fullhash}{0f23430fa29fae9d6b37d5a7852ff4c7}
+      \strng{fullhashraw}{0f23430fa29fae9d6b37d5a7852ff4c7}
+      \strng{bibnamehash}{0f23430fa29fae9d6b37d5a7852ff4c7}
+      \strng{authorbibnamehash}{0f23430fa29fae9d6b37d5a7852ff4c7}
+      \strng{authornamehash}{0f23430fa29fae9d6b37d5a7852ff4c7}
+      \strng{authorfullhash}{0f23430fa29fae9d6b37d5a7852ff4c7}
+      \strng{authorfullhashraw}{0f23430fa29fae9d6b37d5a7852ff4c7}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Defence Science Journal}
+      \field{number}{3}
+      \field{title}{Magnesium and boron combustion in hot steam atmosphere}
+      \field{volume}{48}
+      \field{year}{1998}
+      \field{pages}{309}
+      \range{pages}{1}
+    \endentry
+    \entry{haynes2016crc}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=fe2d275ecf73537f74d4663c7bc3ffbd}{%
+           family={Haynes},
+           familyi={H\bibinitperiod},
+           given={William\bibnamedelima M},
+           giveni={W\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {CRC press}%
+      }
+      \strng{namehash}{fe2d275ecf73537f74d4663c7bc3ffbd}
+      \strng{fullhash}{fe2d275ecf73537f74d4663c7bc3ffbd}
+      \strng{fullhashraw}{fe2d275ecf73537f74d4663c7bc3ffbd}
+      \strng{bibnamehash}{fe2d275ecf73537f74d4663c7bc3ffbd}
+      \strng{authorbibnamehash}{fe2d275ecf73537f74d4663c7bc3ffbd}
+      \strng{authornamehash}{fe2d275ecf73537f74d4663c7bc3ffbd}
+      \strng{authorfullhash}{fe2d275ecf73537f74d4663c7bc3ffbd}
+      \strng{authorfullhashraw}{fe2d275ecf73537f74d4663c7bc3ffbd}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{CRC handbook of chemistry and physics}
+      \field{year}{2016}
+    \endentry
+    \entry{chase1998nist}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=938a0592a6d73533ed1e67eca10fdadd}{%
+           family={Chase},
+           familyi={C\bibinitperiod},
+           given={Malcolm\bibnamedelima W},
+           giveni={M\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=becca85459d5a3cfc748d6a30500e2b4}{%
+           family={(US)},
+           familyi={(\bibinitperiod},
+           given={National\bibnamedelimb Information\bibnamedelimb Standards\bibnamedelima Organization},
+           giveni={N\bibinitperiod\bibinitdelim I\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Chemical Society Washington, DC}%
+      }
+      \strng{namehash}{6dc921334b8a8b94767030872ab615dd}
+      \strng{fullhash}{6dc921334b8a8b94767030872ab615dd}
+      \strng{fullhashraw}{6dc921334b8a8b94767030872ab615dd}
+      \strng{bibnamehash}{6dc921334b8a8b94767030872ab615dd}
+      \strng{authorbibnamehash}{6dc921334b8a8b94767030872ab615dd}
+      \strng{authornamehash}{6dc921334b8a8b94767030872ab615dd}
+      \strng{authorfullhash}{6dc921334b8a8b94767030872ab615dd}
+      \strng{authorfullhashraw}{6dc921334b8a8b94767030872ab615dd}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{NIST-JANAF thermochemical tables}
+      \field{volume}{9}
+      \field{year}{1998}
+    \endentry
+    \entry{burcat2005third}{report}{}{}
+      \name{author}{2}{}{%
+        {{hash=b961189418f95ea9eba89451fe3a7f99}{%
+           family={Burcat},
+           familyi={B\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+        {{hash=1934150f6b7b3e98db2c450839a39199}{%
+           family={Ruscic},
+           familyi={R\bibinitperiod},
+           given={Branko},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Argonne National Lab.(ANL), Argonne, IL (United States)}%
+      }
+      \strng{namehash}{f1029a6be1e7c25ffb76eec3276ee0f7}
+      \strng{fullhash}{f1029a6be1e7c25ffb76eec3276ee0f7}
+      \strng{fullhashraw}{f1029a6be1e7c25ffb76eec3276ee0f7}
+      \strng{bibnamehash}{f1029a6be1e7c25ffb76eec3276ee0f7}
+      \strng{authorbibnamehash}{f1029a6be1e7c25ffb76eec3276ee0f7}
+      \strng{authornamehash}{f1029a6be1e7c25ffb76eec3276ee0f7}
+      \strng{authorfullhash}{f1029a6be1e7c25ffb76eec3276ee0f7}
+      \strng{authorfullhashraw}{f1029a6be1e7c25ffb76eec3276ee0f7}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Third millenium ideal gas and condensed phase thermochemical database for combustion (with update from active thermochemical tables).}
+      \field{type}{techreport}
+      \field{year}{2005}
+    \endentry
+    \entry{svehla1963estimated}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=da550b8f36f0d57b4a954a23f6d7981a}{%
+           family={Svehla},
+           familyi={S\bibinitperiod},
+           given={Roger\bibnamedelima A},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {National Aeronautics}%
+        {Space Administration}%
+      }
+      \strng{namehash}{da550b8f36f0d57b4a954a23f6d7981a}
+      \strng{fullhash}{da550b8f36f0d57b4a954a23f6d7981a}
+      \strng{fullhashraw}{da550b8f36f0d57b4a954a23f6d7981a}
+      \strng{bibnamehash}{da550b8f36f0d57b4a954a23f6d7981a}
+      \strng{authorbibnamehash}{da550b8f36f0d57b4a954a23f6d7981a}
+      \strng{authornamehash}{da550b8f36f0d57b4a954a23f6d7981a}
+      \strng{authorfullhash}{da550b8f36f0d57b4a954a23f6d7981a}
+      \strng{authorfullhashraw}{da550b8f36f0d57b4a954a23f6d7981a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Estimated viscosities and thermal conductivities of gases at high temperatures}
+      \field{volume}{132}
+      \field{year}{1963}
+    \endentry
+    \entry{turns1996introduction}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=bcc7e157bafaa5e46d5a8bada14182e1}{%
+           family={Turns},
+           familyi={T\bibinitperiod},
+           given={Stephen\bibnamedelima R},
+           giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {McGraw-Hill Companies New York, NY, USA}%
+      }
+      \strng{namehash}{bcc7e157bafaa5e46d5a8bada14182e1}
+      \strng{fullhash}{bcc7e157bafaa5e46d5a8bada14182e1}
+      \strng{fullhashraw}{bcc7e157bafaa5e46d5a8bada14182e1}
+      \strng{bibnamehash}{bcc7e157bafaa5e46d5a8bada14182e1}
+      \strng{authorbibnamehash}{bcc7e157bafaa5e46d5a8bada14182e1}
+      \strng{authornamehash}{bcc7e157bafaa5e46d5a8bada14182e1}
+      \strng{authorfullhash}{bcc7e157bafaa5e46d5a8bada14182e1}
+      \strng{authorfullhashraw}{bcc7e157bafaa5e46d5a8bada14182e1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Introduction to combustion}
+      \field{volume}{287}
+      \field{year}{1996}
+    \endentry
+    \entry{touloukian1970thermal}{book}{}{}
+      \name{author}{4}{}{%
+        {{hash=d37489e765654e4a744672cbbe490ef1}{%
+           family={Touloukian},
+           familyi={T\bibinitperiod},
+           given={Yeram\bibnamedelima Sarkis},
+           giveni={Y\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=e0086922653184d0ffc66bd77c057767}{%
+           family={Powell},
+           familyi={P\bibinitperiod},
+           given={RW},
+           giveni={R\bibinitperiod}}}%
+        {{hash=2930e110cec600c1ced6ba086e447914}{%
+           family={Ho},
+           familyi={H\bibinitperiod},
+           given={CY},
+           giveni={C\bibinitperiod}}}%
+        {{hash=10142e00f03d383944f9919062d6f665}{%
+           family={Klemens},
+           familyi={K\bibinitperiod},
+           given={PG},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{bd130c75c6e42f9c3a74faccba8b240f}
+      \strng{fullhash}{b13e534fc08f847c700a5d912d4f84a4}
+      \strng{fullhashraw}{b13e534fc08f847c700a5d912d4f84a4}
+      \strng{bibnamehash}{bd130c75c6e42f9c3a74faccba8b240f}
+      \strng{authorbibnamehash}{bd130c75c6e42f9c3a74faccba8b240f}
+      \strng{authornamehash}{bd130c75c6e42f9c3a74faccba8b240f}
+      \strng{authorfullhash}{b13e534fc08f847c700a5d912d4f84a4}
+      \strng{authorfullhashraw}{b13e534fc08f847c700a5d912d4f84a4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Thermal Conductivity: Metallic Elements and Alloy}
+      \field{year}{1970}
+    \endentry
+    \entry{powell1966thermal}{book}{}{}
+      \name{author}{3}{}{%
+        {{hash=e0086922653184d0ffc66bd77c057767}{%
+           family={Powell},
+           familyi={P\bibinitperiod},
+           given={RW},
+           giveni={R\bibinitperiod}}}%
+        {{hash=c42ef36698cb86cce5c7cfd0ee526a91}{%
+           family={Ho},
+           familyi={H\bibinitperiod},
+           given={Cho\bibnamedelima Yen},
+           giveni={C\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{hash=4363231f47ce5f053e88e19d95715302}{%
+           family={Liley},
+           familyi={L\bibinitperiod},
+           given={Peter\bibnamedelima Edward},
+           giveni={P\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {US Department of Commerce, National Bureau of Standards Washington, DC}%
+      }
+      \strng{namehash}{a7b2a7418e033f7fce141be2537b51e9}
+      \strng{fullhash}{a7b2a7418e033f7fce141be2537b51e9}
+      \strng{fullhashraw}{a7b2a7418e033f7fce141be2537b51e9}
+      \strng{bibnamehash}{a7b2a7418e033f7fce141be2537b51e9}
+      \strng{authorbibnamehash}{a7b2a7418e033f7fce141be2537b51e9}
+      \strng{authornamehash}{a7b2a7418e033f7fce141be2537b51e9}
+      \strng{authorfullhash}{a7b2a7418e033f7fce141be2537b51e9}
+      \strng{authorfullhashraw}{a7b2a7418e033f7fce141be2537b51e9}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Thermal conductivity of selected materials}
+      \field{volume}{8}
+      \field{year}{1966}
+    \endentry
+    \entry{zhou2022structural}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=6d7cd108eea822dda6b662cfb12ad1b2}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Xiaolin},
+           giveni={X\bibinitperiod}}}%
+        {{hash=317d116b5d388b86f604a7de895c3378}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Yufeng},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=6b5129bff25041363b2b915bdf3beaed}{%
+           family={Deng},
+           familyi={D\bibinitperiod},
+           given={Ya},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=e3d0b37c80c28b4d30b8fbe85a6c8127}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Yumin},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Frontiers}%
+      }
+      \strng{namehash}{dd1898e689b010dd9f0436fa223a5c6e}
+      \strng{fullhash}{379dcafa4a2a0ab0e59773a5ea0b1f74}
+      \strng{fullhashraw}{379dcafa4a2a0ab0e59773a5ea0b1f74}
+      \strng{bibnamehash}{dd1898e689b010dd9f0436fa223a5c6e}
+      \strng{authorbibnamehash}{dd1898e689b010dd9f0436fa223a5c6e}
+      \strng{authornamehash}{dd1898e689b010dd9f0436fa223a5c6e}
+      \strng{authorfullhash}{379dcafa4a2a0ab0e59773a5ea0b1f74}
+      \strng{authorfullhashraw}{379dcafa4a2a0ab0e59773a5ea0b1f74}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Frontiers in Materials}
+      \field{title}{Structural, vibrational and transport properties of liquid and amorphous alumina: A molecular dynamics simulation study}
+      \field{volume}{9}
+      \field{year}{2022}
+      \field{pages}{1005747}
+      \range{pages}{1}
+    \endentry
+    \entry{abdullaev2022thermophysical}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=0572fd454ea64acc063bc9b888c67be2}{%
+           family={Abdullaev},
+           familyi={A\bibinitperiod},
+           given={RN},
+           giveni={R\bibinitperiod}}}%
+        {{hash=a8de84c33f47e4d7620500600a04c558}{%
+           family={Agazhanov},
+           familyi={A\bibinitperiod},
+           given={A\bibnamedelima Sh},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=50c19b5ba2153d9cea184cfce74c1c8e}{%
+           family={Khairulin},
+           familyi={K\bibinitperiod},
+           given={AR},
+           giveni={A\bibinitperiod}}}%
+        {{hash=38c87012c13d84d3f9715d41d9dbc74e}{%
+           family={Samoshkin},
+           familyi={S\bibinitperiod},
+           given={DA},
+           giveni={D\bibinitperiod}}}%
+        {{hash=ea4e93eeb617b9b9092a7650e1943a06}{%
+           family={Stankus},
+           familyi={S\bibinitperiod},
+           given={SV},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{6c04c16442d7009503e168a2ed0dcf42}
+      \strng{fullhash}{3ec281d1c93336854e0ffa80832505a1}
+      \strng{fullhashraw}{3ec281d1c93336854e0ffa80832505a1}
+      \strng{bibnamehash}{6c04c16442d7009503e168a2ed0dcf42}
+      \strng{authorbibnamehash}{6c04c16442d7009503e168a2ed0dcf42}
+      \strng{authornamehash}{6c04c16442d7009503e168a2ed0dcf42}
+      \strng{authorfullhash}{3ec281d1c93336854e0ffa80832505a1}
+      \strng{authorfullhashraw}{3ec281d1c93336854e0ffa80832505a1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Engineering Thermophysics}
+      \field{number}{3}
+      \field{title}{Thermophysical Properties of Magnesium in Solid and Liquid States}
+      \field{volume}{31}
+      \field{year}{2022}
+      \field{pages}{384\bibrangedash 401}
+      \range{pages}{18}
+    \endentry
+    \entry{mcbride1996computer}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=e517dff9ee519cd1d4d6815ba8cac450}{%
+           family={McBride},
+           familyi={M\bibinitperiod},
+           given={Bonnie\bibnamedelima J},
+           giveni={B\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {NASA Lewis Research Center}%
+      }
+      \strng{namehash}{e517dff9ee519cd1d4d6815ba8cac450}
+      \strng{fullhash}{e517dff9ee519cd1d4d6815ba8cac450}
+      \strng{fullhashraw}{e517dff9ee519cd1d4d6815ba8cac450}
+      \strng{bibnamehash}{e517dff9ee519cd1d4d6815ba8cac450}
+      \strng{authorbibnamehash}{e517dff9ee519cd1d4d6815ba8cac450}
+      \strng{authornamehash}{e517dff9ee519cd1d4d6815ba8cac450}
+      \strng{authorfullhash}{e517dff9ee519cd1d4d6815ba8cac450}
+      \strng{authorfullhashraw}{e517dff9ee519cd1d4d6815ba8cac450}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Computer program for calculation of complex chemical equilibrium compositions and applications}
+      \field{volume}{2}
+      \field{year}{1996}
+    \endentry
+    \entry{wang2006new}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=b41fe9c6cc1e8e9f13e889d20e626c3c}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Jianfeng},
+           giveni={J\bibinitperiod}}}%
+        {{hash=a90b3ccc6d864c45b59649dd18eef854}{%
+           family={Carson},
+           familyi={C\bibinitperiod},
+           given={James\bibnamedelima K},
+           giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=8289eafedfd48a36a1e409d5c873d80f}{%
+           family={North},
+           familyi={N\bibinitperiod},
+           given={Mike\bibnamedelima F},
+           giveni={M\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=162dc2e38d7eeabd6362aed3495290a3}{%
+           family={Cleland},
+           familyi={C\bibinitperiod},
+           given={Donald\bibnamedelima J},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{bd4ad2d2d7b8208799654f9aeeee7439}
+      \strng{fullhash}{6d1ce3753aafded9bf63aed29223ed39}
+      \strng{fullhashraw}{6d1ce3753aafded9bf63aed29223ed39}
+      \strng{bibnamehash}{bd4ad2d2d7b8208799654f9aeeee7439}
+      \strng{authorbibnamehash}{bd4ad2d2d7b8208799654f9aeeee7439}
+      \strng{authornamehash}{bd4ad2d2d7b8208799654f9aeeee7439}
+      \strng{authorfullhash}{6d1ce3753aafded9bf63aed29223ed39}
+      \strng{authorfullhashraw}{6d1ce3753aafded9bf63aed29223ed39}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Heat and Mass Transfer}
+      \field{number}{17-18}
+      \field{title}{A new approach to modelling the effective thermal conductivity of heterogeneous materials}
+      \field{volume}{49}
+      \field{year}{2006}
+      \field{pages}{3075\bibrangedash 3083}
+      \range{pages}{9}
+    \endentry
+    \entry{hashin1962variational}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=c0ca40d3eeab35641169dfbdbdff5422}{%
+           family={Hashin},
+           familyi={H\bibinitperiod},
+           given={Zvi},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=1251a3f24196ac98fa44dd0bb7469c07}{%
+           family={Shtrikman},
+           familyi={S\bibinitperiod},
+           given={Shmuel},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Institute of Physics}%
+      }
+      \strng{namehash}{ad84012824bbed53a7e0983fdc9aed1d}
+      \strng{fullhash}{ad84012824bbed53a7e0983fdc9aed1d}
+      \strng{fullhashraw}{ad84012824bbed53a7e0983fdc9aed1d}
+      \strng{bibnamehash}{ad84012824bbed53a7e0983fdc9aed1d}
+      \strng{authorbibnamehash}{ad84012824bbed53a7e0983fdc9aed1d}
+      \strng{authornamehash}{ad84012824bbed53a7e0983fdc9aed1d}
+      \strng{authorfullhash}{ad84012824bbed53a7e0983fdc9aed1d}
+      \strng{authorfullhashraw}{ad84012824bbed53a7e0983fdc9aed1d}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Applied Physics}
+      \field{number}{10}
+      \field{title}{A variational approach to the theory of the effective magnetic permeability of multiphase materials}
+      \field{volume}{33}
+      \field{year}{1962}
+      \field{pages}{3125\bibrangedash 3131}
+      \range{pages}{7}
+    \endentry
+    \entry{carson2005thermal}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=a90b3ccc6d864c45b59649dd18eef854}{%
+           family={Carson},
+           familyi={C\bibinitperiod},
+           given={James\bibnamedelima K},
+           giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=73005538f6c1f0223c26f1462561c203}{%
+           family={Lovatt},
+           familyi={L\bibinitperiod},
+           given={Simon\bibnamedelima J},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=5e377ac27772c087326194444a9d3571}{%
+           family={Tanner},
+           familyi={T\bibinitperiod},
+           given={David\bibnamedelima J},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=a930038679b35e3103e8705c14cc2f1a}{%
+           family={Cleland},
+           familyi={C\bibinitperiod},
+           given={Andrew\bibnamedelima C},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{ffb522f4291d1a703f4dc9cab0c2fe99}
+      \strng{fullhash}{e00e506bb71e0fe64f7261228dafdff7}
+      \strng{fullhashraw}{e00e506bb71e0fe64f7261228dafdff7}
+      \strng{bibnamehash}{ffb522f4291d1a703f4dc9cab0c2fe99}
+      \strng{authorbibnamehash}{ffb522f4291d1a703f4dc9cab0c2fe99}
+      \strng{authornamehash}{ffb522f4291d1a703f4dc9cab0c2fe99}
+      \strng{authorfullhash}{e00e506bb71e0fe64f7261228dafdff7}
+      \strng{authorfullhashraw}{e00e506bb71e0fe64f7261228dafdff7}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Heat and Mass Transfer}
+      \field{number}{11}
+      \field{title}{Thermal conductivity bounds for isotropic, porous materials}
+      \field{volume}{48}
+      \field{year}{2005}
+      \field{pages}{2150\bibrangedash 2158}
+      \range{pages}{9}
+    \endentry
+    \entry{gidaspow1994multiphase}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=e8d4c2f894d4e626d0999b7b64b5f41b}{%
+           family={Gidaspow},
+           familyi={G\bibinitperiod},
+           given={Dimitri},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Academic press}%
+      }
+      \strng{namehash}{e8d4c2f894d4e626d0999b7b64b5f41b}
+      \strng{fullhash}{e8d4c2f894d4e626d0999b7b64b5f41b}
+      \strng{fullhashraw}{e8d4c2f894d4e626d0999b7b64b5f41b}
+      \strng{bibnamehash}{e8d4c2f894d4e626d0999b7b64b5f41b}
+      \strng{authorbibnamehash}{e8d4c2f894d4e626d0999b7b64b5f41b}
+      \strng{authornamehash}{e8d4c2f894d4e626d0999b7b64b5f41b}
+      \strng{authorfullhash}{e8d4c2f894d4e626d0999b7b64b5f41b}
+      \strng{authorfullhashraw}{e8d4c2f894d4e626d0999b7b64b5f41b}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Multiphase flow and fluidization: continuum and kinetic theory descriptions}
+      \field{year}{1994}
+    \endentry
+    \entry{li19943}{incollection}{}{}
+      \name{author}{1}{}{%
+        {{hash=7bf04649e74da53e13616c6015e5c647}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Youchu},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{7bf04649e74da53e13616c6015e5c647}
+      \strng{fullhash}{7bf04649e74da53e13616c6015e5c647}
+      \strng{fullhashraw}{7bf04649e74da53e13616c6015e5c647}
+      \strng{bibnamehash}{7bf04649e74da53e13616c6015e5c647}
+      \strng{authorbibnamehash}{7bf04649e74da53e13616c6015e5c647}
+      \strng{authornamehash}{7bf04649e74da53e13616c6015e5c647}
+      \strng{authorfullhash}{7bf04649e74da53e13616c6015e5c647}
+      \strng{authorfullhashraw}{7bf04649e74da53e13616c6015e5c647}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Advances in chemical engineering}
+      \field{title}{Chapter 3. Hydrodynamics}
+      \field{volume}{20}
+      \field{year}{1994}
+      \field{pages}{85\bibrangedash 146}
+      \range{pages}{62}
+    \endentry
+    \entry{ergun1952fluid}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=c67a390222c8171c6c1656889462c159}{%
+           family={Ergun},
+           familyi={E\bibinitperiod},
+           given={Sabri},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{c67a390222c8171c6c1656889462c159}
+      \strng{fullhash}{c67a390222c8171c6c1656889462c159}
+      \strng{fullhashraw}{c67a390222c8171c6c1656889462c159}
+      \strng{bibnamehash}{c67a390222c8171c6c1656889462c159}
+      \strng{authorbibnamehash}{c67a390222c8171c6c1656889462c159}
+      \strng{authornamehash}{c67a390222c8171c6c1656889462c159}
+      \strng{authorfullhash}{c67a390222c8171c6c1656889462c159}
+      \strng{authorfullhashraw}{c67a390222c8171c6c1656889462c159}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Chem. Eng. Prog.}
+      \field{number}{2}
+      \field{title}{Fluid flow through packed columns}
+      \field{volume}{48}
+      \field{year}{1952}
+      \field{pages}{89\bibrangedash 94}
+      \range{pages}{6}
+    \endentry
+    \entry{wen1966mechanics}{inproceedings}{}{}
+      \name{author}{1}{}{%
+        {{hash=b31f5866c52151d1ee5f23b3cc093661}{%
+           family={Wen},
+           familyi={W\bibinitperiod},
+           given={C.\bibnamedelimi Yu},
+           giveni={C\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{b31f5866c52151d1ee5f23b3cc093661}
+      \strng{fullhash}{b31f5866c52151d1ee5f23b3cc093661}
+      \strng{fullhashraw}{b31f5866c52151d1ee5f23b3cc093661}
+      \strng{bibnamehash}{b31f5866c52151d1ee5f23b3cc093661}
+      \strng{authorbibnamehash}{b31f5866c52151d1ee5f23b3cc093661}
+      \strng{authornamehash}{b31f5866c52151d1ee5f23b3cc093661}
+      \strng{authorfullhash}{b31f5866c52151d1ee5f23b3cc093661}
+      \strng{authorfullhashraw}{b31f5866c52151d1ee5f23b3cc093661}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Fluid Particle Technology, Chem. Eng. Progress. Symposium Series}
+      \field{title}{Mechanics of fluidization}
+      \field{volume}{62}
+      \field{year}{1966}
+      \field{pages}{100\bibrangedash 111}
+      \range{pages}{12}
+    \endentry
+    \entry{pannala2010computational}{book}{}{}
+      \name{author}{3}{}{%
+        {{hash=f82a1cee59d6c60403bf58a6fc79c298}{%
+           family={Pannala},
+           familyi={P\bibinitperiod},
+           given={Sreekanth},
+           giveni={S\bibinitperiod}}}%
+        {{hash=8a58859f7b77e9564d2388fc8a1fc534}{%
+           family={Syamlal},
+           familyi={S\bibinitperiod},
+           given={Madhava},
+           giveni={M\bibinitperiod}}}%
+        {{hash=2ee62a0ace0191b46dcb4699c78be019}{%
+           family={O'Brien},
+           familyi={O\bibinitperiod},
+           given={Thomas\bibnamedelima J},
+           giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IGI Global}%
+      }
+      \strng{namehash}{d2df95df745bb38814e0c17921a36942}
+      \strng{fullhash}{d2df95df745bb38814e0c17921a36942}
+      \strng{fullhashraw}{d2df95df745bb38814e0c17921a36942}
+      \strng{bibnamehash}{d2df95df745bb38814e0c17921a36942}
+      \strng{authorbibnamehash}{d2df95df745bb38814e0c17921a36942}
+      \strng{authornamehash}{d2df95df745bb38814e0c17921a36942}
+      \strng{authorfullhash}{d2df95df745bb38814e0c17921a36942}
+      \strng{authorfullhashraw}{d2df95df745bb38814e0c17921a36942}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Computational gas-solids flows and reacting systems: theory, methods and practice: Theory, methods and practice}
+      \field{year}{2010}
+    \endentry
+    \entry{li1980dynamics}{inbook}{}{}
+      \name{author}{2}{}{%
+        {{hash=8b8615e84a269441bcdd9a56110adfdf}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Youchou},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=ce4ece04dd15a96bf742d668462fe942}{%
+           family={Kwauk},
+           familyi={K\bibinitperiod},
+           given={Mooson},
+           giveni={M\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=aeaeaf609e62cfe4ac9b90072915c873}{%
+           family={Grace},
+           familyi={G\bibinitperiod},
+           given={John\bibnamedelima R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=0138304cf54fead75bacd67c427fa43e}{%
+           family={Matsen},
+           familyi={M\bibinitperiod},
+           given={John\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Boston, MA}%
+      }
+      \list{publisher}{1}{%
+        {Springer US}%
+      }
+      \strng{namehash}{c9c76912de6dc8a627655e9e7b01d262}
+      \strng{fullhash}{c9c76912de6dc8a627655e9e7b01d262}
+      \strng{fullhashraw}{c9c76912de6dc8a627655e9e7b01d262}
+      \strng{bibnamehash}{c9c76912de6dc8a627655e9e7b01d262}
+      \strng{authorbibnamehash}{c9c76912de6dc8a627655e9e7b01d262}
+      \strng{authornamehash}{c9c76912de6dc8a627655e9e7b01d262}
+      \strng{authorfullhash}{c9c76912de6dc8a627655e9e7b01d262}
+      \strng{authorfullhashraw}{c9c76912de6dc8a627655e9e7b01d262}
+      \strng{editorbibnamehash}{96ffe12208673c6f6d6945b2d5cbb3cc}
+      \strng{editornamehash}{96ffe12208673c6f6d6945b2d5cbb3cc}
+      \strng{editorfullhash}{96ffe12208673c6f6d6945b2d5cbb3cc}
+      \strng{editorfullhashraw}{96ffe12208673c6f6d6945b2d5cbb3cc}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A mathematical model proposed for the dynamics of fast fluidization to account for vertical voidage distribution, has been used to correlate the experimental data obtained in a 9-cm-diameter column with a height of 8 meters. The results are shown in a flow regime diagram spanning from particulate and bubbling fluidization, through turbulent and fast fluidization, to dilute-phase pneumatic transport.}
+      \field{booktitle}{Fluidization}
+      \field{isbn}{978-1-4684-1045-7}
+      \field{title}{The Dynamics of Fast Fluidization}
+      \field{year}{1980}
+      \field{pages}{537\bibrangedash 544}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1007/978-1-4684-1045-7_57
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-1-4684-1045-7_57
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-1-4684-1045-7_57
+      \endverb
+    \endentry
+    \entry{helland2007drag}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=96c1ef4ed939e6520581c8c6fbe7f995}{%
+           family={Helland},
+           familyi={H\bibinitperiod},
+           given={E},
+           giveni={E\bibinitperiod}}}%
+        {{hash=0d548da646d2ec5013b3ebaef708f068}{%
+           family={Bournot},
+           familyi={B\bibinitperiod},
+           given={H},
+           giveni={H\bibinitperiod}}}%
+        {{hash=141473f2e267df2d7638f12f16ec9680}{%
+           family={Occelli},
+           familyi={O\bibinitperiod},
+           given={R},
+           giveni={R\bibinitperiod}}}%
+        {{hash=17cd9dc42eddb16e2133bb914390515c}{%
+           family={Tadrist},
+           familyi={T\bibinitperiod},
+           given={L},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{58312e248105d4e4e2aba47fe442e704}
+      \strng{fullhash}{fe37a34ffae60f3008728a90e3bdd0a5}
+      \strng{fullhashraw}{fe37a34ffae60f3008728a90e3bdd0a5}
+      \strng{bibnamehash}{58312e248105d4e4e2aba47fe442e704}
+      \strng{authorbibnamehash}{58312e248105d4e4e2aba47fe442e704}
+      \strng{authornamehash}{58312e248105d4e4e2aba47fe442e704}
+      \strng{authorfullhash}{fe37a34ffae60f3008728a90e3bdd0a5}
+      \strng{authorfullhashraw}{fe37a34ffae60f3008728a90e3bdd0a5}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Chemical Engineering Science}
+      \field{number}{1-2}
+      \field{title}{Drag reduction and cluster formation in a circulating fluidised bed}
+      \field{volume}{62}
+      \field{year}{2007}
+      \field{pages}{148\bibrangedash 158}
+      \range{pages}{11}
+    \endentry
+    \entry{blander1975bubble}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=3ad7d8fc025f9d93f10f8118ad74d7d4}{%
+           family={Blander},
+           familyi={B\bibinitperiod},
+           given={Milton},
+           giveni={M\bibinitperiod}}}%
+        {{hash=f2f89162660294cf4f2a41e7d9e05213}{%
+           family={Katz},
+           familyi={K\bibinitperiod},
+           given={Joseph\bibnamedelima L},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{fa8102c9467a0201bc2c4b460c67b520}
+      \strng{fullhash}{fa8102c9467a0201bc2c4b460c67b520}
+      \strng{fullhashraw}{fa8102c9467a0201bc2c4b460c67b520}
+      \strng{bibnamehash}{fa8102c9467a0201bc2c4b460c67b520}
+      \strng{authorbibnamehash}{fa8102c9467a0201bc2c4b460c67b520}
+      \strng{authornamehash}{fa8102c9467a0201bc2c4b460c67b520}
+      \strng{authorfullhash}{fa8102c9467a0201bc2c4b460c67b520}
+      \strng{authorfullhashraw}{fa8102c9467a0201bc2c4b460c67b520}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{AIChE Journal}
+      \field{number}{5}
+      \field{title}{Bubble nucleation in liquids}
+      \field{volume}{21}
+      \field{year}{1975}
+      \field{pages}{833\bibrangedash 848}
+      \range{pages}{16}
+    \endentry
+    \entry{schrage1953theoretical}{incollection}{}{}
+      \name{author}{1}{}{%
+        {{hash=71c952451a7dcb2a90de4129cb4b52fa}{%
+           family={Schrage},
+           familyi={S\bibinitperiod},
+           given={Robert\bibnamedelima W},
+           giveni={R\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Columbia University Press}%
+      }
+      \strng{namehash}{71c952451a7dcb2a90de4129cb4b52fa}
+      \strng{fullhash}{71c952451a7dcb2a90de4129cb4b52fa}
+      \strng{fullhashraw}{71c952451a7dcb2a90de4129cb4b52fa}
+      \strng{bibnamehash}{71c952451a7dcb2a90de4129cb4b52fa}
+      \strng{authorbibnamehash}{71c952451a7dcb2a90de4129cb4b52fa}
+      \strng{authornamehash}{71c952451a7dcb2a90de4129cb4b52fa}
+      \strng{authorfullhash}{71c952451a7dcb2a90de4129cb4b52fa}
+      \strng{authorfullhashraw}{71c952451a7dcb2a90de4129cb4b52fa}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A theoretical study of interphase mass transfer}
+      \field{year}{1953}
+    \endentry
+    \entry{eames1997evaporation}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=cf755a25d5c53827e265df834c2b726a}{%
+           family={Eames},
+           familyi={E\bibinitperiod},
+           given={IW},
+           giveni={I\bibinitperiod}}}%
+        {{hash=45a0ad1269268798c33ba34d90c0282d}{%
+           family={Marr},
+           familyi={M\bibinitperiod},
+           given={NJ},
+           giveni={N\bibinitperiod}}}%
+        {{hash=e458a3bf4cc3d86f0a697c55c0b40e96}{%
+           family={Sabir},
+           familyi={S\bibinitperiod},
+           given={H},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{de12d6d208227966d39e4b0583bf527c}
+      \strng{fullhash}{de12d6d208227966d39e4b0583bf527c}
+      \strng{fullhashraw}{de12d6d208227966d39e4b0583bf527c}
+      \strng{bibnamehash}{de12d6d208227966d39e4b0583bf527c}
+      \strng{authorbibnamehash}{de12d6d208227966d39e4b0583bf527c}
+      \strng{authornamehash}{de12d6d208227966d39e4b0583bf527c}
+      \strng{authorfullhash}{de12d6d208227966d39e4b0583bf527c}
+      \strng{authorfullhashraw}{de12d6d208227966d39e4b0583bf527c}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Heat and Mass Transfer}
+      \field{number}{12}
+      \field{title}{The evaporation coefficient of water: a review}
+      \field{volume}{40}
+      \field{year}{1997}
+      \field{pages}{2963\bibrangedash 2973}
+      \range{pages}{11}
+    \endentry
+    \entry{nakamura2019determination}{inproceedings}{}{}
+      \name{author}{2}{}{%
+        {{hash=dcc58b5c9c06ddfcee9f189237595ee4}{%
+           family={Nakamura},
+           familyi={N\bibinitperiod},
+           given={Shigeto},
+           giveni={S\bibinitperiod}}}%
+        {{hash=c47317d1fceae227632d203bbc39b5e7}{%
+           family={Yano},
+           familyi={Y\bibinitperiod},
+           given={Takeru},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {AIP Publishing LLC}%
+      }
+      \strng{namehash}{f9a3bc2964ab65d49d9bf2aacc5d0e29}
+      \strng{fullhash}{f9a3bc2964ab65d49d9bf2aacc5d0e29}
+      \strng{fullhashraw}{f9a3bc2964ab65d49d9bf2aacc5d0e29}
+      \strng{bibnamehash}{f9a3bc2964ab65d49d9bf2aacc5d0e29}
+      \strng{authorbibnamehash}{f9a3bc2964ab65d49d9bf2aacc5d0e29}
+      \strng{authornamehash}{f9a3bc2964ab65d49d9bf2aacc5d0e29}
+      \strng{authorfullhash}{f9a3bc2964ab65d49d9bf2aacc5d0e29}
+      \strng{authorfullhashraw}{f9a3bc2964ab65d49d9bf2aacc5d0e29}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{AIP Conference Proceedings}
+      \field{number}{1}
+      \field{title}{Determination of the evaporation coefficient of water based on molecular gas dynamics}
+      \field{volume}{2132}
+      \field{year}{2019}
+      \field{pages}{050005}
+      \range{pages}{1}
+    \endentry
+    \entry{liao2017computational}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=68b9dfa3befe4783710556396284b0bc}{%
+           family={Liao},
+           familyi={L\bibinitperiod},
+           given={Yixiang},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=d67516c1084badf971b6a9237a88e6ab}{%
+           family={Lucas},
+           familyi={L\bibinitperiod},
+           given={Dirk},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{e60ab7519496760bffb77fa7f3b78474}
+      \strng{fullhash}{e60ab7519496760bffb77fa7f3b78474}
+      \strng{fullhashraw}{e60ab7519496760bffb77fa7f3b78474}
+      \strng{bibnamehash}{e60ab7519496760bffb77fa7f3b78474}
+      \strng{authorbibnamehash}{e60ab7519496760bffb77fa7f3b78474}
+      \strng{authornamehash}{e60ab7519496760bffb77fa7f3b78474}
+      \strng{authorfullhash}{e60ab7519496760bffb77fa7f3b78474}
+      \strng{authorfullhashraw}{e60ab7519496760bffb77fa7f3b78474}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Heat and Mass Transfer}
+      \field{title}{Computational modelling of flash boiling flows: A literature survey}
+      \field{volume}{111}
+      \field{year}{2017}
+      \field{pages}{246\bibrangedash 265}
+      \range{pages}{20}
+    \endentry
+    \entry{zhang2019predicting}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=dab90d227b512e9cedb41532e46ba87a}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Chi},
+           giveni={C\bibinitperiod}}}%
+        {{hash=86d8cd66cb62928ca1ec636d8cd2e11c}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Xin},
+           giveni={X\bibinitperiod}}}%
+        {{hash=6ec924db398f65072381abd759741249}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Junsheng},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ACS Publications}%
+      }
+      \strng{namehash}{26954d09a5be07577eed6083e0459859}
+      \strng{fullhash}{26954d09a5be07577eed6083e0459859}
+      \strng{fullhashraw}{26954d09a5be07577eed6083e0459859}
+      \strng{bibnamehash}{26954d09a5be07577eed6083e0459859}
+      \strng{authorbibnamehash}{26954d09a5be07577eed6083e0459859}
+      \strng{authornamehash}{26954d09a5be07577eed6083e0459859}
+      \strng{authorfullhash}{26954d09a5be07577eed6083e0459859}
+      \strng{authorfullhashraw}{26954d09a5be07577eed6083e0459859}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Journal of Physical Chemistry C}
+      \field{number}{31}
+      \field{title}{Predicting the effects of temperature on the water wettability of the Mg/MgO surface through atomistic simulations}
+      \field{volume}{123}
+      \field{year}{2019}
+      \field{pages}{18914\bibrangedash 18923}
+      \range{pages}{10}
+    \endentry
+    \entry{fritz1935berechnung}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=379eb7410a1219511327673e13fafb1d}{%
+           family={Fritz},
+           familyi={F\bibinitperiod},
+           given={Walter},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{379eb7410a1219511327673e13fafb1d}
+      \strng{fullhash}{379eb7410a1219511327673e13fafb1d}
+      \strng{fullhashraw}{379eb7410a1219511327673e13fafb1d}
+      \strng{bibnamehash}{379eb7410a1219511327673e13fafb1d}
+      \strng{authorbibnamehash}{379eb7410a1219511327673e13fafb1d}
+      \strng{authornamehash}{379eb7410a1219511327673e13fafb1d}
+      \strng{authorfullhash}{379eb7410a1219511327673e13fafb1d}
+      \strng{authorfullhashraw}{379eb7410a1219511327673e13fafb1d}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physik. Zeitschr}
+      \field{title}{Berechnung des maximalvolumes von dampfblasen}
+      \field{volume}{36}
+      \field{year}{1935}
+      \field{pages}{379\bibrangedash 384}
+      \range{pages}{6}
+    \endentry
+    \entry{jakob1931versuche}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=057759be8d73ed324cad1e3b8691d679}{%
+           family={Jakob},
+           familyi={J\bibinitperiod},
+           given={Max},
+           giveni={M\bibinitperiod}}}%
+        {{hash=67f5c18e96f77abc93dd64641b55ccaf}{%
+           family={Fritz},
+           familyi={F\bibinitperiod},
+           given={W},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{f510484380717bce639ab0a739d8516a}
+      \strng{fullhash}{f510484380717bce639ab0a739d8516a}
+      \strng{fullhashraw}{f510484380717bce639ab0a739d8516a}
+      \strng{bibnamehash}{f510484380717bce639ab0a739d8516a}
+      \strng{authorbibnamehash}{f510484380717bce639ab0a739d8516a}
+      \strng{authornamehash}{f510484380717bce639ab0a739d8516a}
+      \strng{authorfullhash}{f510484380717bce639ab0a739d8516a}
+      \strng{authorfullhashraw}{f510484380717bce639ab0a739d8516a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Forschung auf dem Gebiet des Ingenieurwesens A}
+      \field{number}{12}
+      \field{title}{Versuche über den Verdampfungsvorgang}
+      \field{volume}{2}
+      \field{year}{1931}
+      \field{pages}{435\bibrangedash 447}
+      \range{pages}{13}
+    \endentry
+    \entry{hsu1962size}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=4cacde9288147ed1cb7d0d120778356f}{%
+           family={Hsu},
+           familyi={H\bibinitperiod},
+           given={YY},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{4cacde9288147ed1cb7d0d120778356f}
+      \strng{fullhash}{4cacde9288147ed1cb7d0d120778356f}
+      \strng{fullhashraw}{4cacde9288147ed1cb7d0d120778356f}
+      \strng{bibnamehash}{4cacde9288147ed1cb7d0d120778356f}
+      \strng{authorbibnamehash}{4cacde9288147ed1cb7d0d120778356f}
+      \strng{authornamehash}{4cacde9288147ed1cb7d0d120778356f}
+      \strng{authorfullhash}{4cacde9288147ed1cb7d0d120778356f}
+      \strng{authorfullhashraw}{4cacde9288147ed1cb7d0d120778356f}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Heat Transfer}
+      \field{title}{On the size range of active nucleation cavities on a heating surface}
+      \field{year}{1962}
+      \field{pages}{207\bibrangedash 213}
+      \range{pages}{7}
+    \endentry
+    \entry{liau1995analysis}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=77f2dfb91cff653ffa0eac5fd0623731}{%
+           family={Liau},
+           familyi={L\bibinitperiod},
+           given={Yeong-Cherng},
+           giveni={Y\bibinithyphendelim C\bibinitperiod}}}%
+        {{hash=0228ebba3c5519fc8ae26bd247dd52e6}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Vigor},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{deb1e12cdb9da06f51d632646c161245}
+      \strng{fullhash}{deb1e12cdb9da06f51d632646c161245}
+      \strng{fullhashraw}{deb1e12cdb9da06f51d632646c161245}
+      \strng{bibnamehash}{deb1e12cdb9da06f51d632646c161245}
+      \strng{authorbibnamehash}{deb1e12cdb9da06f51d632646c161245}
+      \strng{authornamehash}{deb1e12cdb9da06f51d632646c161245}
+      \strng{authorfullhash}{deb1e12cdb9da06f51d632646c161245}
+      \strng{authorfullhashraw}{deb1e12cdb9da06f51d632646c161245}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Propulsion and Power}
+      \field{number}{4}
+      \field{title}{Analysis of RDX monopropellant combustion with two-phase subsurface reactions}
+      \field{volume}{11}
+      \field{year}{1995}
+      \field{pages}{729\bibrangedash 739}
+      \range{pages}{11}
+    \endentry
+    \entry{shafirovich1992combustion}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=a483b15d49743295e44067fd3818620f}{%
+           family={Shafirovich},
+           familyi={S\bibinitperiod},
+           given={E\bibnamedelima Ya},
+           giveni={E\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{hash=39ff836720e308781a05195cb8ca3bf3}{%
+           family={Goldshleger},
+           familyi={G\bibinitperiod},
+           given={UI},
+           giveni={U\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{7dd940cc592ad98450164dd389e1c2ea}
+      \strng{fullhash}{7dd940cc592ad98450164dd389e1c2ea}
+      \strng{fullhashraw}{7dd940cc592ad98450164dd389e1c2ea}
+      \strng{bibnamehash}{7dd940cc592ad98450164dd389e1c2ea}
+      \strng{authorbibnamehash}{7dd940cc592ad98450164dd389e1c2ea}
+      \strng{authornamehash}{7dd940cc592ad98450164dd389e1c2ea}
+      \strng{authorfullhash}{7dd940cc592ad98450164dd389e1c2ea}
+      \strng{authorfullhashraw}{7dd940cc592ad98450164dd389e1c2ea}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Combustion Science and Technology}
+      \field{number}{1-6}
+      \field{title}{Combustion of magnesium particles in CO2/CO mixtures}
+      \field{volume}{84}
+      \field{year}{1992}
+      \field{pages}{33\bibrangedash 43}
+      \range{pages}{11}
+    \endentry
+    \entry{cassel1962combustion}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=27b1a9bf46895171c981374abee3b95f}{%
+           family={Cassel},
+           familyi={C\bibinitperiod},
+           given={HM},
+           giveni={H\bibinitperiod}}}%
+        {{hash=8b18ac250c1770783c002c182510b6cd}{%
+           family={Liebman},
+           familyi={L\bibinitperiod},
+           given={I},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{97873c581133da3ea3dff7e27189ae60}
+      \strng{fullhash}{97873c581133da3ea3dff7e27189ae60}
+      \strng{fullhashraw}{97873c581133da3ea3dff7e27189ae60}
+      \strng{bibnamehash}{97873c581133da3ea3dff7e27189ae60}
+      \strng{authorbibnamehash}{97873c581133da3ea3dff7e27189ae60}
+      \strng{authornamehash}{97873c581133da3ea3dff7e27189ae60}
+      \strng{authorfullhash}{97873c581133da3ea3dff7e27189ae60}
+      \strng{authorfullhashraw}{97873c581133da3ea3dff7e27189ae60}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Combustion and Flame}
+      \field{title}{Combustion of magnesium particles 1}
+      \field{volume}{6}
+      \field{year}{1962}
+      \field{pages}{153\bibrangedash 156}
+      \range{pages}{4}
+    \endentry
+    \entry{prachukho1971burning}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=2613882fe36877fedd5e1e9bf33bc8ab}{%
+           family={Prachukho},
+           familyi={P\bibinitperiod},
+           given={VP},
+           giveni={V\bibinitperiod}}}%
+        {{hash=048669bcad6ae423d14fde7bbc1126df}{%
+           family={Ozerov},
+           familyi={O\bibinitperiod},
+           given={ES},
+           giveni={E\bibinitperiod}}}%
+        {{hash=ffb99eb2228fd1345ac0b62abc02e222}{%
+           family={Yurinov},
+           familyi={Y\bibinitperiod},
+           given={AA},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{b416b80b7c778e212e6eafe98c635a41}
+      \strng{fullhash}{b416b80b7c778e212e6eafe98c635a41}
+      \strng{fullhashraw}{b416b80b7c778e212e6eafe98c635a41}
+      \strng{bibnamehash}{b416b80b7c778e212e6eafe98c635a41}
+      \strng{authorbibnamehash}{b416b80b7c778e212e6eafe98c635a41}
+      \strng{authornamehash}{b416b80b7c778e212e6eafe98c635a41}
+      \strng{authorfullhash}{b416b80b7c778e212e6eafe98c635a41}
+      \strng{authorfullhashraw}{b416b80b7c778e212e6eafe98c635a41}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Combustion, Explosion and Shock Waves}
+      \field{number}{2}
+      \field{title}{Burning of magnesium particles in water vapor}
+      \field{volume}{7}
+      \field{year}{1971}
+      \field{pages}{195\bibrangedash 198}
+      \range{pages}{4}
+    \endentry
+    \entry{nugraha2022sherwood}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=f04fb405a94514141cf10bd77faa6b2e}{%
+           family={Nugraha},
+           familyi={N\bibinitperiod},
+           given={Maulana\bibnamedelima G},
+           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=3234c3a7f4f3048f8b16e08b223eca6c}{%
+           family={Andersson},
+           familyi={A\bibinitperiod},
+           given={Ronnie},
+           giveni={R\bibinitperiod}}}%
+        {{hash=2d097337231ea1828198c9d8b4d0f8bc}{%
+           family={Andersson},
+           familyi={A\bibinitperiod},
+           given={Bengt},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{6f7829a1a3082e2d57227f7c02fbfd61}
+      \strng{fullhash}{6f7829a1a3082e2d57227f7c02fbfd61}
+      \strng{fullhashraw}{6f7829a1a3082e2d57227f7c02fbfd61}
+      \strng{bibnamehash}{6f7829a1a3082e2d57227f7c02fbfd61}
+      \strng{authorbibnamehash}{6f7829a1a3082e2d57227f7c02fbfd61}
+      \strng{authornamehash}{6f7829a1a3082e2d57227f7c02fbfd61}
+      \strng{authorfullhash}{6f7829a1a3082e2d57227f7c02fbfd61}
+      \strng{authorfullhashraw}{6f7829a1a3082e2d57227f7c02fbfd61}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Chemical Engineering Science}
+      \field{title}{On the Sherwood number correction due to Stefan flow}
+      \field{volume}{249}
+      \field{year}{2022}
+      \field{pages}{117292}
+      \range{pages}{1}
+    \endentry
+    \entry{feng2019experimental}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=a6479da3ccdb205b83b9b264b320435f}{%
+           family={Feng},
+           familyi={F\bibinitperiod},
+           given={Y\bibnamedelima -Ch},
+           giveni={Y\bibinitperiod\bibinitdelim \bibinithyphendelim \bibinitperiod}}}%
+        {{hash=8ff6d84d24e4a8d1c45d1e449302f8fd}{%
+           family={Xia},
+           familyi={X\bibinitperiod},
+           given={Zh\bibnamedelima -X},
+           giveni={Z\bibinitperiod\bibinitdelim \bibinithyphendelim \bibinitperiod}}}%
+        {{hash=748cb31cd7d7cdb44f81011fd17f5ba7}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={L\bibnamedelima -Y},
+           giveni={L\bibinitperiod\bibinitdelim \bibinithyphendelim \bibinitperiod}}}%
+        {{hash=98f3430f35fedde28fb7352eed262fb9}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={L\bibnamedelima -K},
+           giveni={L\bibinitperiod\bibinitdelim \bibinithyphendelim \bibinitperiod}}}%
+        {{hash=2a7d161b078ceba94b1f01bb67675a2d}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={D\bibnamedelima -L},
+           giveni={D\bibinitperiod\bibinitdelim \bibinithyphendelim \bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{292bf2e882c5458352d9171c0333b0bc}
+      \strng{fullhash}{3730e4ee912e44b88172f9efb539de2d}
+      \strng{fullhashraw}{3730e4ee912e44b88172f9efb539de2d}
+      \strng{bibnamehash}{292bf2e882c5458352d9171c0333b0bc}
+      \strng{authorbibnamehash}{292bf2e882c5458352d9171c0333b0bc}
+      \strng{authornamehash}{292bf2e882c5458352d9171c0333b0bc}
+      \strng{authorfullhash}{3730e4ee912e44b88172f9efb539de2d}
+      \strng{authorfullhashraw}{3730e4ee912e44b88172f9efb539de2d}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Combustion, explosion, and shock waves}
+      \field{title}{Experimental investigation on the ignition and combustion characteristics of a single magnesium particle in air}
+      \field{volume}{55}
+      \field{year}{2019}
+      \field{pages}{210\bibrangedash 219}
+      \range{pages}{10}
+    \endentry
+    \entry{gol2004combustion}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=1c8021004284428eb04df4bc6077d960}{%
+           family={Gol'dshleger},
+           familyi={G\bibinitperiod},
+           given={UI},
+           giveni={U\bibinitperiod}}}%
+        {{hash=542c73d47d002976541d263e0e8f1abe}{%
+           family={Amosov},
+           familyi={A\bibinitperiod},
+           given={SD},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{352f9d8d98e1057bdbcb7112ccf0763d}
+      \strng{fullhash}{352f9d8d98e1057bdbcb7112ccf0763d}
+      \strng{fullhashraw}{352f9d8d98e1057bdbcb7112ccf0763d}
+      \strng{bibnamehash}{352f9d8d98e1057bdbcb7112ccf0763d}
+      \strng{authorbibnamehash}{352f9d8d98e1057bdbcb7112ccf0763d}
+      \strng{authornamehash}{352f9d8d98e1057bdbcb7112ccf0763d}
+      \strng{authorfullhash}{352f9d8d98e1057bdbcb7112ccf0763d}
+      \strng{authorfullhashraw}{352f9d8d98e1057bdbcb7112ccf0763d}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Combustion, Explosion and Shock Waves}
+      \field{title}{Combustion Modes and Mechanisms of High-Temperature Oxidation of Magnesium in Oxygen}
+      \field{volume}{40}
+      \field{year}{2004}
+      \field{pages}{275\bibrangedash 284}
+      \range{pages}{10}
+    \endentry
+    \entry{shevtsov1976mechanism}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=b1162a91188bad273d56352441113afb}{%
+           family={Shevtsov},
+           familyi={S\bibinitperiod},
+           given={VI},
+           giveni={V\bibinitperiod}}}%
+        {{hash=0bdc30cc5ad6ee857ad1d8240bb4b2b0}{%
+           family={Fursov},
+           familyi={F\bibinitperiod},
+           given={VP},
+           giveni={V\bibinitperiod}}}%
+        {{hash=7792d53311137b11b18e13a14f0a576c}{%
+           family={Stesik},
+           familyi={S\bibinitperiod},
+           given={LN},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{15d0a70049947b601f2fdf7f25ddfa09}
+      \strng{fullhash}{15d0a70049947b601f2fdf7f25ddfa09}
+      \strng{fullhashraw}{15d0a70049947b601f2fdf7f25ddfa09}
+      \strng{bibnamehash}{15d0a70049947b601f2fdf7f25ddfa09}
+      \strng{authorbibnamehash}{15d0a70049947b601f2fdf7f25ddfa09}
+      \strng{authornamehash}{15d0a70049947b601f2fdf7f25ddfa09}
+      \strng{authorfullhash}{15d0a70049947b601f2fdf7f25ddfa09}
+      \strng{authorfullhashraw}{15d0a70049947b601f2fdf7f25ddfa09}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Combustion, Explosion and Shock Waves}
+      \field{number}{6}
+      \field{title}{Mechanism for combustion of isolated magnesium particles}
+      \field{volume}{12}
+      \field{year}{1976}
+      \field{pages}{758\bibrangedash 763}
+      \range{pages}{6}
+    \endentry
+    \entry{raghunandan1977problem}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=af54a181ac8a8c1fd38034e123f38665}{%
+           family={Raghunandan},
+           familyi={R\bibinitperiod},
+           given={BN},
+           giveni={B\bibinitperiod}}}%
+        {{hash=6cc11c9b64cb98076faf97a06fc28625}{%
+           family={Mukunda},
+           familyi={M\bibinitperiod},
+           given={HS},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{d2f6cef2bd7ad697e3820d0cb2a2909e}
+      \strng{fullhash}{d2f6cef2bd7ad697e3820d0cb2a2909e}
+      \strng{fullhashraw}{d2f6cef2bd7ad697e3820d0cb2a2909e}
+      \strng{bibnamehash}{d2f6cef2bd7ad697e3820d0cb2a2909e}
+      \strng{authorbibnamehash}{d2f6cef2bd7ad697e3820d0cb2a2909e}
+      \strng{authornamehash}{d2f6cef2bd7ad697e3820d0cb2a2909e}
+      \strng{authorfullhash}{d2f6cef2bd7ad697e3820d0cb2a2909e}
+      \strng{authorfullhashraw}{d2f6cef2bd7ad697e3820d0cb2a2909e}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Combustion and Flame}
+      \field{title}{The problem of liquid droplet combustion—a reexamination}
+      \field{volume}{30}
+      \field{year}{1977}
+      \field{pages}{71\bibrangedash 84}
+      \range{pages}{14}
+    \endentry
+    \entry{kassoy1968variable}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=8be02d4394ba240a93ba4fc81d304e15}{%
+           family={Kassoy},
+           familyi={K\bibinitperiod},
+           given={David\bibnamedelima R},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=509797a00e64780bdcc35e24c11a8500}{%
+           family={Williams},
+           familyi={W\bibinitperiod},
+           given={Forman\bibnamedelima A},
+           giveni={F\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{069b8ac989586da4b1f4eed119f10a5f}
+      \strng{fullhash}{069b8ac989586da4b1f4eed119f10a5f}
+      \strng{fullhashraw}{069b8ac989586da4b1f4eed119f10a5f}
+      \strng{bibnamehash}{069b8ac989586da4b1f4eed119f10a5f}
+      \strng{authorbibnamehash}{069b8ac989586da4b1f4eed119f10a5f}
+      \strng{authornamehash}{069b8ac989586da4b1f4eed119f10a5f}
+      \strng{authorfullhash}{069b8ac989586da4b1f4eed119f10a5f}
+      \strng{authorfullhashraw}{069b8ac989586da4b1f4eed119f10a5f}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{AIAA Journal}
+      \field{number}{10}
+      \field{title}{Variable property effects on liquid droplet combustion.}
+      \field{volume}{6}
+      \field{year}{1968}
+      \field{pages}{1961\bibrangedash 1965}
+      \range{pages}{5}
+    \endentry
+    \entry{law1976quasi}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=d209efebf90c0756f79134840df1ba82}{%
+           family={Law},
+           familyi={L\bibinitperiod},
+           given={Chung\bibnamedelima King},
+           giveni={C\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=97c86043c453f2bf824d8ffccd8b05b3}{%
+           family={Law},
+           familyi={L\bibinitperiod},
+           given={HK},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{0cf1b664de849f19dc16a372ba4d23cb}
+      \strng{fullhash}{0cf1b664de849f19dc16a372ba4d23cb}
+      \strng{fullhashraw}{0cf1b664de849f19dc16a372ba4d23cb}
+      \strng{bibnamehash}{0cf1b664de849f19dc16a372ba4d23cb}
+      \strng{authorbibnamehash}{0cf1b664de849f19dc16a372ba4d23cb}
+      \strng{authornamehash}{0cf1b664de849f19dc16a372ba4d23cb}
+      \strng{authorfullhash}{0cf1b664de849f19dc16a372ba4d23cb}
+      \strng{authorfullhashraw}{0cf1b664de849f19dc16a372ba4d23cb}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Combustion Science and Technology}
+      \field{number}{4-6}
+      \field{title}{Quasi-steady diffusion flame theory with variable specific heats and transport coefficients}
+      \field{volume}{12}
+      \field{year}{1976}
+      \field{pages}{207\bibrangedash 216}
+      \range{pages}{10}
+    \endentry
+    \entry{law1972kinetics}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=fd0980066aa4ae4bcc723094b7848b04}{%
+           family={Law},
+           familyi={L\bibinitperiod},
+           given={CK},
+           giveni={C\bibinitperiod}}}%
+        {{hash=080e81baa3b3bd3439431906da856cf2}{%
+           family={Williams},
+           familyi={W\bibinitperiod},
+           given={FA},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{510b5969c99df93a899455a5527864d0}
+      \strng{fullhash}{510b5969c99df93a899455a5527864d0}
+      \strng{fullhashraw}{510b5969c99df93a899455a5527864d0}
+      \strng{bibnamehash}{510b5969c99df93a899455a5527864d0}
+      \strng{authorbibnamehash}{510b5969c99df93a899455a5527864d0}
+      \strng{authornamehash}{510b5969c99df93a899455a5527864d0}
+      \strng{authorfullhash}{510b5969c99df93a899455a5527864d0}
+      \strng{authorfullhashraw}{510b5969c99df93a899455a5527864d0}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Combustion and Flame}
+      \field{number}{3}
+      \field{title}{Kinetics and convection in the combustion of alkane droplets}
+      \field{volume}{19}
+      \field{year}{1972}
+      \field{pages}{393\bibrangedash 405}
+      \range{pages}{13}
+    \endentry
+    \entry{law2010combustion}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=c5d39dd7eee84c48af6754e530729a95}{%
+           family={Law},
+           familyi={L\bibinitperiod},
+           given={Chung\bibnamedelima K},
+           giveni={C\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge university press}%
+      }
+      \strng{namehash}{c5d39dd7eee84c48af6754e530729a95}
+      \strng{fullhash}{c5d39dd7eee84c48af6754e530729a95}
+      \strng{fullhashraw}{c5d39dd7eee84c48af6754e530729a95}
+      \strng{bibnamehash}{c5d39dd7eee84c48af6754e530729a95}
+      \strng{authorbibnamehash}{c5d39dd7eee84c48af6754e530729a95}
+      \strng{authornamehash}{c5d39dd7eee84c48af6754e530729a95}
+      \strng{authorfullhash}{c5d39dd7eee84c48af6754e530729a95}
+      \strng{authorfullhashraw}{c5d39dd7eee84c48af6754e530729a95}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Combustion physics}
+      \field{year}{2010}
+    \endentry
+    \entry{whitaker1972forced}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=13f9639d585fbd44e0205a83591fcbf2}{%
+           family={Whitaker},
+           familyi={W\bibinitperiod},
+           given={Stephen},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{13f9639d585fbd44e0205a83591fcbf2}
+      \strng{fullhash}{13f9639d585fbd44e0205a83591fcbf2}
+      \strng{fullhashraw}{13f9639d585fbd44e0205a83591fcbf2}
+      \strng{bibnamehash}{13f9639d585fbd44e0205a83591fcbf2}
+      \strng{authorbibnamehash}{13f9639d585fbd44e0205a83591fcbf2}
+      \strng{authornamehash}{13f9639d585fbd44e0205a83591fcbf2}
+      \strng{authorfullhash}{13f9639d585fbd44e0205a83591fcbf2}
+      \strng{authorfullhashraw}{13f9639d585fbd44e0205a83591fcbf2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{AIChE journal}
+      \field{number}{2}
+      \field{title}{Forced convection heat transfer correlations for flow in pipes, past flat plates, single cylinders, single spheres, and for flow in packed beds and tube bundles}
+      \field{volume}{18}
+      \field{year}{1972}
+      \field{pages}{361\bibrangedash 371}
+      \range{pages}{11}
+    \endentry
+    \entry{incropera1996fundamentals}{book}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{4}{}{%
+        {{hash=af629011276d698dac3cc48c1342c57b}{%
+           family={Incropera},
+           familyi={I\bibinitperiod},
+           given={Frank\bibnamedelima P},
+           giveni={F\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=346802d5c6dd71081775c557ad324cf0}{%
+           family={DeWitt},
+           familyi={D\bibinitperiod},
+           given={David\bibnamedelima P},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=d8986880ce30c45fc26bf3af70ef1c37}{%
+           family={Bergman},
+           familyi={B\bibinitperiod},
+           given={Theodore\bibnamedelima L},
+           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=b22ea78229af4420d0683e5c6d56ef10}{%
+           family={Lavine},
+           familyi={L\bibinitperiod},
+           given={Adrienne\bibnamedelima S},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley New York}%
+      }
+      \strng{namehash}{141e523274a5e700bf39e52a6cb6d13e}
+      \strng{fullhash}{05b8ea0dcedfdadfb7763f849b2d554b}
+      \strng{fullhashraw}{05b8ea0dcedfdadfb7763f849b2d554b}
+      \strng{bibnamehash}{141e523274a5e700bf39e52a6cb6d13e}
+      \strng{authorbibnamehash}{141e523274a5e700bf39e52a6cb6d13e}
+      \strng{authornamehash}{141e523274a5e700bf39e52a6cb6d13e}
+      \strng{authorfullhash}{05b8ea0dcedfdadfb7763f849b2d554b}
+      \strng{authorfullhashraw}{05b8ea0dcedfdadfb7763f849b2d554b}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Fundamentals of heat and mass transfer}
+      \field{volume}{6}
+      \field{year}{1996}
+    \endentry
+    \entry{ranz1952evaporation}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=88cacafea9d022ddc1581cce9a2e58dd}{%
+           family={Ranz},
+           familyi={R\bibinitperiod},
+           given={WE},
+           giveni={W\bibinitperiod}}}%
+        {{hash=e2359377dea35845742732d21d5683ed}{%
+           family={Marshall},
+           familyi={M\bibinitperiod},
+           given={WR},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{19cb25923b5e431fe99397ea746739ba}
+      \strng{fullhash}{19cb25923b5e431fe99397ea746739ba}
+      \strng{fullhashraw}{19cb25923b5e431fe99397ea746739ba}
+      \strng{bibnamehash}{19cb25923b5e431fe99397ea746739ba}
+      \strng{authorbibnamehash}{19cb25923b5e431fe99397ea746739ba}
+      \strng{authornamehash}{19cb25923b5e431fe99397ea746739ba}
+      \strng{authorfullhash}{19cb25923b5e431fe99397ea746739ba}
+      \strng{authorfullhashraw}{19cb25923b5e431fe99397ea746739ba}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Chem. Eng. Prog}
+      \field{number}{3}
+      \field{title}{Evaporation from droplets}
+      \field{volume}{48}
+      \field{year}{1952}
+      \field{pages}{141\bibrangedash 146}
+      \range{pages}{6}
+    \endentry
+    \entry{yetter2009metal}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=7d798c50eb191b39652a680686f18f22}{%
+           family={Yetter},
+           familyi={Y\bibinitperiod},
+           given={Richard\bibnamedelima A},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=a75d6d50ed9d97d0ccd2664ea979a036}{%
+           family={Risha},
+           familyi={R\bibinitperiod},
+           given={Grant\bibnamedelima A},
+           giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=1282ee616731c22aa7b1d667b489bf3d}{%
+           family={Son},
+           familyi={S\bibinitperiod},
+           given={Steven\bibnamedelima F},
+           giveni={S\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{1159aa24329091dd136d0b101cd92a31}
+      \strng{fullhash}{1159aa24329091dd136d0b101cd92a31}
+      \strng{fullhashraw}{1159aa24329091dd136d0b101cd92a31}
+      \strng{bibnamehash}{1159aa24329091dd136d0b101cd92a31}
+      \strng{authorbibnamehash}{1159aa24329091dd136d0b101cd92a31}
+      \strng{authornamehash}{1159aa24329091dd136d0b101cd92a31}
+      \strng{authorfullhash}{1159aa24329091dd136d0b101cd92a31}
+      \strng{authorfullhashraw}{1159aa24329091dd136d0b101cd92a31}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the combustion institute}
+      \field{number}{2}
+      \field{title}{Metal particle combustion and nanotechnology}
+      \field{volume}{32}
+      \field{year}{2009}
+      \field{pages}{1819\bibrangedash 1838}
+      \range{pages}{20}
+    \endentry
+    \entry{gao2018development}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=9569b66c2a606d3623963589899e3362}{%
+           family={Gao},
+           familyi={G\bibinitperiod},
+           given={Xi},
+           giveni={X\bibinitperiod}}}%
+        {{hash=4f0d152ac8976e496173dabafc289265}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Tingwen},
+           giveni={T\bibinitperiod}}}%
+        {{hash=23485aae54a41120889ade0ebf75008e}{%
+           family={Sarkar},
+           familyi={S\bibinitperiod},
+           given={Avik},
+           giveni={A\bibinitperiod}}}%
+        {{hash=0a923181e903a8356c319ed0039fcb91}{%
+           family={Lu},
+           familyi={L\bibinitperiod},
+           given={Liqiang},
+           giveni={L\bibinitperiod}}}%
+        {{hash=4914021326def056bdac4947ebc37deb}{%
+           family={Rogers},
+           familyi={R\bibinitperiod},
+           given={William\bibnamedelima A},
+           giveni={W\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{03472b4e7a2c56cecd9401f96e1519cf}
+      \strng{fullhash}{17fd45b6db92caf1d3c3122d57ea75a8}
+      \strng{fullhashraw}{17fd45b6db92caf1d3c3122d57ea75a8}
+      \strng{bibnamehash}{03472b4e7a2c56cecd9401f96e1519cf}
+      \strng{authorbibnamehash}{03472b4e7a2c56cecd9401f96e1519cf}
+      \strng{authornamehash}{03472b4e7a2c56cecd9401f96e1519cf}
+      \strng{authorfullhash}{17fd45b6db92caf1d3c3122d57ea75a8}
+      \strng{authorfullhashraw}{17fd45b6db92caf1d3c3122d57ea75a8}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Chemical Engineering Science}
+      \field{title}{Development and validation of an enhanced filtered drag model for simulating gas-solid fluidization of Geldart A particles in all flow regimes}
+      \field{volume}{184}
+      \field{year}{2018}
+      \field{pages}{33\bibrangedash 51}
+      \range{pages}{19}
+    \endentry
+    \entry{tian2020steady}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=aafbec832c389afab6a1150014aa8314}{%
+           family={Tian},
+           familyi={T\bibinitperiod},
+           given={Yujie},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=165812279aa098f1badd67587447b5a1}{%
+           family={Lu},
+           familyi={L\bibinitperiod},
+           given={Bona},
+           giveni={B\bibinitperiod}}}%
+        {{hash=7df818fca45095cc73f91eeeb29b8de2}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Fei},
+           giveni={F\bibinitperiod}}}%
+        {{hash=f27ec46ccd272a021fd78bdac92dd490}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{33b456805bb6d857a2726349969a3dd8}
+      \strng{fullhash}{58f48830db0a0a153c485ee4ba21b3d9}
+      \strng{fullhashraw}{58f48830db0a0a153c485ee4ba21b3d9}
+      \strng{bibnamehash}{33b456805bb6d857a2726349969a3dd8}
+      \strng{authorbibnamehash}{33b456805bb6d857a2726349969a3dd8}
+      \strng{authornamehash}{33b456805bb6d857a2726349969a3dd8}
+      \strng{authorfullhash}{58f48830db0a0a153c485ee4ba21b3d9}
+      \strng{authorfullhashraw}{58f48830db0a0a153c485ee4ba21b3d9}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Chemical Engineering Science}
+      \field{title}{A steady-state EMMS drag model for fluidized beds}
+      \field{volume}{219}
+      \field{year}{2020}
+      \field{pages}{115616}
+      \range{pages}{1}
+    \endentry
+    \entry{ishii2010thermo}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=4649f142dbc00bd86763221cee80268d}{%
+           family={Ishii},
+           familyi={I\bibinitperiod},
+           given={Mamoru},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a5d38e4ff62b200e4837c52e2707e838}{%
+           family={Hibiki},
+           familyi={H\bibinitperiod},
+           given={Takashi},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Springer New York}%
+      }
+      \strng{namehash}{5d2db04afba9ab50cbbd90fa9525f48a}
+      \strng{fullhash}{5d2db04afba9ab50cbbd90fa9525f48a}
+      \strng{fullhashraw}{5d2db04afba9ab50cbbd90fa9525f48a}
+      \strng{bibnamehash}{5d2db04afba9ab50cbbd90fa9525f48a}
+      \strng{authorbibnamehash}{5d2db04afba9ab50cbbd90fa9525f48a}
+      \strng{authornamehash}{5d2db04afba9ab50cbbd90fa9525f48a}
+      \strng{authorfullhash}{5d2db04afba9ab50cbbd90fa9525f48a}
+      \strng{authorfullhashraw}{5d2db04afba9ab50cbbd90fa9525f48a}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Thermo-fluid dynamics of two-phase flow}
+      \field{year}{2010}
+    \endentry
+    \entry{kee2000chemkin}{manual}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{hash=d23fdf9c5a3f6621ac29b66b053b08a3}{%
+           family={Kee},
+           familyi={K\bibinitperiod},
+           given={RJ},
+           giveni={R\bibinitperiod}}}%
+        {{hash=71416eeecfb8ddd2381e3bb0b181f535}{%
+           family={Rupley},
+           familyi={R\bibinitperiod},
+           given={FM},
+           giveni={F\bibinitperiod}}}%
+        {{hash=c25480c679ee95f060ad8038078e7d3e}{%
+           family={Miller},
+           familyi={M\bibinitperiod},
+           given={JA},
+           giveni={J\bibinitperiod}}}%
+        {{hash=79d4b6cda924955105fde8b59e69386f}{%
+           family={Coltrin},
+           familyi={C\bibinitperiod},
+           given={ME},
+           giveni={M\bibinitperiod}}}%
+        {{hash=6ffc73445206863dcd6529b5a0e892fc}{%
+           family={Grcar},
+           familyi={G\bibinitperiod},
+           given={JF},
+           giveni={J\bibinitperiod}}}%
+        {{hash=93f11f12745eb92cb888d28ff414dd11}{%
+           family={Meeks},
+           familyi={M\bibinitperiod},
+           given={E},
+           giveni={E\bibinitperiod}}}%
+        {{hash=8aaa5be52ff4fe6e39c2e17c64a5de52}{%
+           family={Moffat},
+           familyi={M\bibinitperiod},
+           given={HK},
+           giveni={H\bibinitperiod}}}%
+        {{hash=9b7b68f8678e5c762d9353bafe2d426d}{%
+           family={Lutz},
+           familyi={L\bibinitperiod},
+           given={AE},
+           giveni={A\bibinitperiod}}}%
+        {{hash=3f9e24a06f515423df36e1db3c1cbb7b}{%
+           family={Dixon-Lewis},
+           familyi={D\bibinithyphendelim L\bibinitperiod},
+           given={G},
+           giveni={G\bibinitperiod}}}%
+        {{hash=1e2415732a53c9806ab80c61869f7c81}{%
+           family={Smooke},
+           familyi={S\bibinitperiod},
+           given={MD},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{800e22fe2657514369d592ea1a4484c8}
+      \strng{fullhash}{54bd10020a22b009ddd94cd1cac28e4d}
+      \strng{fullhashraw}{54bd10020a22b009ddd94cd1cac28e4d}
+      \strng{bibnamehash}{800e22fe2657514369d592ea1a4484c8}
+      \strng{authorbibnamehash}{800e22fe2657514369d592ea1a4484c8}
+      \strng{authornamehash}{800e22fe2657514369d592ea1a4484c8}
+      \strng{authorfullhash}{54bd10020a22b009ddd94cd1cac28e4d}
+      \strng{authorfullhashraw}{54bd10020a22b009ddd94cd1cac28e4d}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{CHEMKIN collection, release 3.6, reaction design, Inc., San Diego, CA}
+      \field{year}{2000}
+    \endentry
+    \entry{tanasawa1991advances}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{hash=5412ac41917f19e82abcb494e3c542f1}{%
+           family={Tanasawa},
+           familyi={T\bibinitperiod},
+           given={Ichiro},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Amsterdam}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{5412ac41917f19e82abcb494e3c542f1}
+      \strng{fullhash}{5412ac41917f19e82abcb494e3c542f1}
+      \strng{fullhashraw}{5412ac41917f19e82abcb494e3c542f1}
+      \strng{bibnamehash}{5412ac41917f19e82abcb494e3c542f1}
+      \strng{authorbibnamehash}{5412ac41917f19e82abcb494e3c542f1}
+      \strng{authornamehash}{5412ac41917f19e82abcb494e3c542f1}
+      \strng{authorfullhash}{5412ac41917f19e82abcb494e3c542f1}
+      \strng{authorfullhashraw}{5412ac41917f19e82abcb494e3c542f1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Advances in heat transfer}
+      \field{title}{Advances in condensation heat transfer, in: J. P. Hartnett, T. F. Irvine, Y. I. Cho (Eds.), Advances in heat transfer}
+      \field{year}{1991}
+      \field{pages}{55\bibrangedash 139}
+      \range{pages}{85}
+    \endentry
+    \entry{roenby2016computational}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=acaf8c8d8316908194f701fd02fe7504}{%
+           family={Roenby},
+           familyi={R\bibinitperiod},
+           given={Johan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=db8fb36939bbf1a4ac1c3c90f9fde673}{%
+           family={Bredmose},
+           familyi={B\bibinitperiod},
+           given={Henrik},
+           giveni={H\bibinitperiod}}}%
+        {{hash=d62bc09e89bff10783d2d7091a4a6aa6}{%
+           family={Jasak},
+           familyi={J\bibinitperiod},
+           given={Hrvoje},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The Royal Society}%
+      }
+      \strng{namehash}{e1172f13c56226839a1e6b50c038fbfc}
+      \strng{fullhash}{e1172f13c56226839a1e6b50c038fbfc}
+      \strng{fullhashraw}{e1172f13c56226839a1e6b50c038fbfc}
+      \strng{bibnamehash}{e1172f13c56226839a1e6b50c038fbfc}
+      \strng{authorbibnamehash}{e1172f13c56226839a1e6b50c038fbfc}
+      \strng{authornamehash}{e1172f13c56226839a1e6b50c038fbfc}
+      \strng{authorfullhash}{e1172f13c56226839a1e6b50c038fbfc}
+      \strng{authorfullhashraw}{e1172f13c56226839a1e6b50c038fbfc}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Roy. Soc. Open Sci.}
+      \field{number}{11}
+      \field{title}{A computational method for sharp interface advection}
+      \field{volume}{3}
+      \field{year}{2016}
+      \field{pages}{160405}
+      \range{pages}{1}
+    \endentry
+    \entry{valverde2008fluidization}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=154d1f0e819fa99358e7b91780dbe821}{%
+           family={Valverde},
+           familyi={V\bibinitperiod},
+           given={Jose\bibnamedelima Manuel},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=029b73a7b285d8408c85cb961475fee6}{%
+           family={Castellanos},
+           familyi={C\bibinitperiod},
+           given={Antonio},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{24352beee8aaf389165732d2c2752149}
+      \strng{fullhash}{24352beee8aaf389165732d2c2752149}
+      \strng{fullhashraw}{24352beee8aaf389165732d2c2752149}
+      \strng{bibnamehash}{24352beee8aaf389165732d2c2752149}
+      \strng{authorbibnamehash}{24352beee8aaf389165732d2c2752149}
+      \strng{authornamehash}{24352beee8aaf389165732d2c2752149}
+      \strng{authorfullhash}{24352beee8aaf389165732d2c2752149}
+      \strng{authorfullhashraw}{24352beee8aaf389165732d2c2752149}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Chemical Engineering Journal}
+      \field{number}{1-3}
+      \field{title}{Fluidization of nanoparticles: A simple equation for estimating the size of agglomerates}
+      \field{volume}{140}
+      \field{year}{2008}
+      \field{pages}{296\bibrangedash 304}
+      \range{pages}{9}
+    \endentry
+    \entry{parr2003evaluation}{book}{}{}
+      \name{author}{5}{}{%
+        {{hash=9bafed4d7fbc7fa81a81cf94c3e37a8f}{%
+           family={Parr},
+           familyi={P\bibinitperiod},
+           given={T},
+           giveni={T\bibinitperiod}}}%
+        {{hash=3ab34db904b7dbbd29c0c325a354a5ab}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={C},
+           giveni={C\bibinitperiod}}}%
+        {{hash=a01774b7438cb26acdcd9fd4583083e8}{%
+           family={Hanson-Parr},
+           familyi={H\bibinithyphendelim P\bibinitperiod},
+           given={D},
+           giveni={D\bibinitperiod}}}%
+        {{hash=8d85f66db440bbf84d527028428253a9}{%
+           family={Higa},
+           familyi={H\bibinitperiod},
+           given={Kelvin},
+           giveni={K\bibinitperiod}}}%
+        {{hash=2516acfd516405481e0708ab42918a23}{%
+           family={Wilson},
+           familyi={W\bibinitperiod},
+           given={K},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {39th JANNAF Combustion Subcommittee Meeting}%
+      }
+      \strng{namehash}{961a50d10564aaff142ec0e4d5e9aeba}
+      \strng{fullhash}{8192f3dc288520b930e40842a9789a75}
+      \strng{fullhashraw}{8192f3dc288520b930e40842a9789a75}
+      \strng{bibnamehash}{961a50d10564aaff142ec0e4d5e9aeba}
+      \strng{authorbibnamehash}{961a50d10564aaff142ec0e4d5e9aeba}
+      \strng{authornamehash}{961a50d10564aaff142ec0e4d5e9aeba}
+      \strng{authorfullhash}{8192f3dc288520b930e40842a9789a75}
+      \strng{authorfullhashraw}{8192f3dc288520b930e40842a9789a75}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Evaluation of advanced fuels for underwater propulsion}
+      \field{year}{2003}
+    \endentry
+    \entry{lynch2009correlation}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=02d8ffe9c3e9c9e99cba43c1c097466b}{%
+           family={Lynch},
+           familyi={L\bibinitperiod},
+           given={Patrick},
+           giveni={P\bibinitperiod}}}%
+        {{hash=cbe7120cd560819fba9c38aabcb6e17d}{%
+           family={Krier},
+           familyi={K\bibinitperiod},
+           given={Herman},
+           giveni={H\bibinitperiod}}}%
+        {{hash=73a3c9fd5e6334f7e7acb3f17be75ec6}{%
+           family={Glumac},
+           familyi={G\bibinitperiod},
+           given={Nick},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{4ca25b643a164dd13d91fdfd02acf055}
+      \strng{fullhash}{4ca25b643a164dd13d91fdfd02acf055}
+      \strng{fullhashraw}{4ca25b643a164dd13d91fdfd02acf055}
+      \strng{bibnamehash}{4ca25b643a164dd13d91fdfd02acf055}
+      \strng{authorbibnamehash}{4ca25b643a164dd13d91fdfd02acf055}
+      \strng{authornamehash}{4ca25b643a164dd13d91fdfd02acf055}
+      \strng{authorfullhash}{4ca25b643a164dd13d91fdfd02acf055}
+      \strng{authorfullhashraw}{4ca25b643a164dd13d91fdfd02acf055}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{P. Combust. Inst.}
+      \field{number}{2}
+      \field{title}{A correlation for burn time of aluminum particles in the transition regime}
+      \field{volume}{32}
+      \field{year}{2009}
+      \field{pages}{1887\bibrangedash 1893}
+      \range{pages}{7}
+    \endentry
+    \entry{CORCORAN20132242}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=b775fedb71d79cf2a64f3dbfbe39d7fb}{%
+           family={Corcoran},
+           familyi={C\bibinitperiod},
+           given={Amy},
+           giveni={A\bibinitperiod}}}%
+        {{hash=e550b23d0a60ff48865a4d027f0ad6dd}{%
+           family={Mercati},
+           familyi={M\bibinitperiod},
+           given={Stefano},
+           giveni={S\bibinitperiod}}}%
+        {{hash=0b392fbba8efcbcd74e8dae24306d3a7}{%
+           family={Nie},
+           familyi={N\bibinitperiod},
+           given={Hongqi},
+           giveni={H\bibinitperiod}}}%
+        {{hash=5996808a5b73f3f4de8455d6babb113f}{%
+           family={Milani},
+           familyi={M\bibinitperiod},
+           given={Massimo},
+           giveni={M\bibinitperiod}}}%
+        {{hash=7706b46d2d03cbda999781fa57be96df}{%
+           family={Montorsi},
+           familyi={M\bibinitperiod},
+           given={Luca},
+           giveni={L\bibinitperiod}}}%
+        {{hash=56dd40ce0ae25c232bfd2978004d3398}{%
+           family={Dreizin},
+           familyi={D\bibinitperiod},
+           given={Edward\bibnamedelima L.},
+           giveni={E\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{6f6c58662f7b0ceb9b82565bf3d111cd}
+      \strng{fullhash}{4e7e78ba57447dd63ca2f070330a89c8}
+      \strng{fullhashraw}{4e7e78ba57447dd63ca2f070330a89c8}
+      \strng{bibnamehash}{6f6c58662f7b0ceb9b82565bf3d111cd}
+      \strng{authorbibnamehash}{6f6c58662f7b0ceb9b82565bf3d111cd}
+      \strng{authornamehash}{6f6c58662f7b0ceb9b82565bf3d111cd}
+      \strng{authorfullhash}{4e7e78ba57447dd63ca2f070330a89c8}
+      \strng{authorfullhashraw}{4e7e78ba57447dd63ca2f070330a89c8}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Micron-sized metal powders carried by a nitrogen flow were fed along the axis of a cylindrical hydrogen/oxygen diffusion flame. The particles ignited and burned in the water vapor at approximately 2500K. Experiments were performed at atmospheric pressure. The environment in which particles burned was characterized in detail using computational fluid dynamics. The computations confirmed that the metal powders burned in water while the effect of oxygen and other oxidizing species could be neglected. Combustion was characterized experimentally for micron-sized powders of both aluminum and magnesium. Particle size distributions were measured using low-angle laser light scattering. Optical emission of the burning particles was recorded using filtered photomultiplier tubes. Measured durations of individual particle emission pulses were assumed to represent their burn times; these data were classified into logarithmically spaced time bins. The distribution of the particle burn times was correlated with their size distributions assuming that larger size particles burned longer. It was observed that correlation between the burn times, t, and particle diameters, D, can be approximately described as t∼D0.64 and t∼D0.68 for aluminum and magnesium powders, respectively. The results were compared to previous reports and possible reasons for discrepancies between the present and earlier results were discussed.}
+      \field{issn}{0010-2180}
+      \field{journaltitle}{Combust. Flame}
+      \field{number}{10}
+      \field{title}{Combustion of fine aluminum and magnesium powders in water}
+      \field{volume}{160}
+      \field{year}{2013}
+      \field{pages}{2242\bibrangedash 2250}
+      \range{pages}{9}
+      \keyw{Metal combustion,Particle burn time,Hydrogen production,Underwater propulsion}
+    \endentry
+    \entry{glassman2014combustion}{book}{}{}
+      \name{author}{3}{}{%
+        {{hash=1e328dd3a25b3caf5931699988eadef9}{%
+           family={Glassman},
+           familyi={G\bibinitperiod},
+           given={Irvin},
+           giveni={I\bibinitperiod}}}%
+        {{hash=7d798c50eb191b39652a680686f18f22}{%
+           family={Yetter},
+           familyi={Y\bibinitperiod},
+           given={Richard\bibnamedelima A},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=556b90c956d88809527c0b7d57a811f0}{%
+           family={Glumac},
+           familyi={G\bibinitperiod},
+           given={Nick\bibnamedelima G},
+           giveni={N\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Academic press}%
+      }
+      \strng{namehash}{32aaf02543ba0e858543b7224c267f57}
+      \strng{fullhash}{32aaf02543ba0e858543b7224c267f57}
+      \strng{fullhashraw}{32aaf02543ba0e858543b7224c267f57}
+      \strng{bibnamehash}{32aaf02543ba0e858543b7224c267f57}
+      \strng{authorbibnamehash}{32aaf02543ba0e858543b7224c267f57}
+      \strng{authornamehash}{32aaf02543ba0e858543b7224c267f57}
+      \strng{authorfullhash}{32aaf02543ba0e858543b7224c267f57}
+      \strng{authorfullhashraw}{32aaf02543ba0e858543b7224c267f57}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Combustion}
+      \field{year}{2014}
+    \endentry
+    \entry{sharipov2011kinetics}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=293ba9f99ffa132d28928d8f898dd453}{%
+           family={Sharipov},
+           familyi={S\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+        {{hash=20aed0186917fa930fbf90b6fafa7208}{%
+           family={Titova},
+           familyi={T\bibinitperiod},
+           given={Nataliya},
+           giveni={N\bibinitperiod}}}%
+        {{hash=7338d937d3cc43ef2a0bc499bd632e06}{%
+           family={Starik},
+           familyi={S\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ACS Publications}%
+      }
+      \strng{namehash}{22f51ef2f9624ca5812f86515791125d}
+      \strng{fullhash}{22f51ef2f9624ca5812f86515791125d}
+      \strng{fullhashraw}{22f51ef2f9624ca5812f86515791125d}
+      \strng{bibnamehash}{22f51ef2f9624ca5812f86515791125d}
+      \strng{authorbibnamehash}{22f51ef2f9624ca5812f86515791125d}
+      \strng{authornamehash}{22f51ef2f9624ca5812f86515791125d}
+      \strng{authorfullhash}{22f51ef2f9624ca5812f86515791125d}
+      \strng{authorfullhashraw}{22f51ef2f9624ca5812f86515791125d}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{J. Phys. Chem. A}
+      \field{number}{17}
+      \field{title}{Kinetics of {Al}+{H2O} reaction: Theoretical study}
+      \field{volume}{115}
+      \field{year}{2011}
+      \field{pages}{4476\bibrangedash 4481}
+      \range{pages}{6}
+    \endentry
+    \entry{nistAlH2O}{misc}{}{}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{title}{{NIST Chemical Kinetics Database, NIST Standard Reference Database Number 17, URL https://kinetics.nist.gov/, Retrieved December 20}}
+      \field{year}{2024}
+    \endentry
+    \entry{bazyn2006combustion}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=37dd730f996706578b7dd4180665412d}{%
+           family={Bazyn},
+           familyi={B\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod}}}%
+        {{hash=cbe7120cd560819fba9c38aabcb6e17d}{%
+           family={Krier},
+           familyi={K\bibinitperiod},
+           given={Herman},
+           giveni={H\bibinitperiod}}}%
+        {{hash=73a3c9fd5e6334f7e7acb3f17be75ec6}{%
+           family={Glumac},
+           familyi={G\bibinitperiod},
+           given={Nick},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{087a5e35622d25d9b62ee6e031c642be}
+      \strng{fullhash}{087a5e35622d25d9b62ee6e031c642be}
+      \strng{fullhashraw}{087a5e35622d25d9b62ee6e031c642be}
+      \strng{bibnamehash}{087a5e35622d25d9b62ee6e031c642be}
+      \strng{authorbibnamehash}{087a5e35622d25d9b62ee6e031c642be}
+      \strng{authornamehash}{087a5e35622d25d9b62ee6e031c642be}
+      \strng{authorfullhash}{087a5e35622d25d9b62ee6e031c642be}
+      \strng{authorfullhashraw}{087a5e35622d25d9b62ee6e031c642be}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Combust. Flame}
+      \field{number}{4}
+      \field{title}{Combustion of nanoaluminum at elevated pressure and temperature behind reflected shock waves}
+      \field{volume}{145}
+      \field{year}{2006}
+      \field{pages}{703\bibrangedash 713}
+      \range{pages}{11}
+    \endentry
+    \entry{loth2021supersonic}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=b9b39f5cd74441befd9b210b4318efbd}{%
+           family={Loth},
+           familyi={L\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod}}}%
+        {{hash=d93c7b00ea1a170a4ff89ec6c9d6b25e}{%
+           family={Tyler\bibnamedelima Daspit},
+           familyi={T\bibinitperiod\bibinitdelim D\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c14fbbac91fa30db9cbedaf04a5e6c25}{%
+           family={Jeong},
+           familyi={J\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=0da1e126d7cbd0e9c110e58dc95cf773}{%
+           family={Nagata},
+           familyi={N\bibinitperiod},
+           given={Takayuki},
+           giveni={T\bibinitperiod}}}%
+        {{hash=a8ca2a7bdad4b829c21ecbe07437df87}{%
+           family={Nonomura},
+           familyi={N\bibinitperiod},
+           given={Taku},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {American Institute of Aeronautics}%
+        {Astronautics}%
+      }
+      \strng{namehash}{fc1d9a2ec3753628dd456f73b50f3702}
+      \strng{fullhash}{2a45f6e1c9c7d1416292d23293308be6}
+      \strng{fullhashraw}{2a45f6e1c9c7d1416292d23293308be6}
+      \strng{bibnamehash}{fc1d9a2ec3753628dd456f73b50f3702}
+      \strng{authorbibnamehash}{fc1d9a2ec3753628dd456f73b50f3702}
+      \strng{authornamehash}{fc1d9a2ec3753628dd456f73b50f3702}
+      \strng{authorfullhash}{2a45f6e1c9c7d1416292d23293308be6}
+      \strng{authorfullhashraw}{2a45f6e1c9c7d1416292d23293308be6}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{AIAA J.}
+      \field{number}{8}
+      \field{title}{Supersonic and hypersonic drag coefficients for a sphere}
+      \field{volume}{59}
+      \field{year}{2021}
+      \field{pages}{3261\bibrangedash 3274}
+      \range{pages}{14}
+    \endentry
+    \entry{Ishii2011TFM}{inbook}{}{}
+      \name{author}{2}{}{%
+        {{hash=4649f142dbc00bd86763221cee80268d}{%
+           family={Ishii},
+           familyi={I\bibinitperiod},
+           given={Mamoru},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a5d38e4ff62b200e4837c52e2707e838}{%
+           family={Hibiki},
+           familyi={H\bibinitperiod},
+           given={Takashi},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Springer New York}%
+      }
+      \strng{namehash}{5d2db04afba9ab50cbbd90fa9525f48a}
+      \strng{fullhash}{5d2db04afba9ab50cbbd90fa9525f48a}
+      \strng{fullhashraw}{5d2db04afba9ab50cbbd90fa9525f48a}
+      \strng{bibnamehash}{5d2db04afba9ab50cbbd90fa9525f48a}
+      \strng{authorbibnamehash}{5d2db04afba9ab50cbbd90fa9525f48a}
+      \strng{authornamehash}{5d2db04afba9ab50cbbd90fa9525f48a}
+      \strng{authorfullhash}{5d2db04afba9ab50cbbd90fa9525f48a}
+      \strng{authorfullhashraw}{5d2db04afba9ab50cbbd90fa9525f48a}
+      \field{extraname}{2}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The two-fluid model (Ishii, 1975, Ishii and Mishima, 1984) is formulated by considering each phase separately. Thus, the model is expressed in terms of two sets of conservation equations governing the balance of mass, momentum and energy in each phase. However, since the averaged fields of one phase are not independent of the other phase, we have interaction terms appearing in these balance equations.}
+      \field{booktitle}{Thermo-fluid dynamics of two-phase flow}
+      \field{isbn}{978-1-4419-7985-8}
+      \field{title}{Two-fluid model, in: M. Ishii, T. Hibiki (Eds.), Thermo-fluid dynamics of two-phase flow}
+      \field{year}{2011}
+      \field{pages}{155\bibrangedash 216}
+      \range{pages}{62}
+    \endentry
+    \entry{van2000derivation}{thesis}{}{}
+      \name{author}{1}{}{%
+        {{hash=f4f2a926cab1a08cc46c69b06d725b30}{%
+           family={Wachem},
+           familyi={W\bibinitperiod},
+           given={Berend\bibnamedelimb Gerardus\bibnamedelima Michiel},
+           giveni={B\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim M\bibinitperiod},
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Delft University of Technology}%
+      }
+      \list{location}{1}{%
+        {Amsterdam}%
+      }
+      \strng{namehash}{f4f2a926cab1a08cc46c69b06d725b30}
+      \strng{fullhash}{f4f2a926cab1a08cc46c69b06d725b30}
+      \strng{fullhashraw}{f4f2a926cab1a08cc46c69b06d725b30}
+      \strng{bibnamehash}{f4f2a926cab1a08cc46c69b06d725b30}
+      \strng{authorbibnamehash}{f4f2a926cab1a08cc46c69b06d725b30}
+      \strng{authornamehash}{f4f2a926cab1a08cc46c69b06d725b30}
+      \strng{authorfullhash}{f4f2a926cab1a08cc46c69b06d725b30}
+      \strng{authorfullhashraw}{f4f2a926cab1a08cc46c69b06d725b30}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Derivation, implementation, and validation of computer simulation models for gas-solid fluidized beds}
+      \field{type}{Ph.{D}. {Dissertation}}
+      \field{year}{2000}
+    \endentry
+    \entry{rettenmaier2019load}{article}{}{}
+      \name{author}{8}{}{%
+        {{hash=292670c55bcee65211d1f585f34d4282}{%
+           family={Rettenmaier},
+           familyi={R\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=6bf27765f1cd5ba719ff17d7b721cd09}{%
+           family={Deising},
+           familyi={D\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=f15ff87bc0cffaff43d68250fcea6e2a}{%
+           family={Ouedraogo},
+           familyi={O\bibinitperiod},
+           given={Yun},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=175a3c27a8d7c8c3cd57cc6373f8f260}{%
+           family={Gjonaj},
+           familyi={G\bibinitperiod},
+           given={Erion},
+           giveni={E\bibinitperiod}}}%
+        {{hash=82999ead8d0c197eae1b6729485b017f}{%
+           family={De\bibnamedelima Gersem},
+           familyi={D\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={Herbert},
+           giveni={H\bibinitperiod}}}%
+        {{hash=3f3de62d1383b738ac4933acc854adde}{%
+           family={Bothe},
+           familyi={B\bibinitperiod},
+           given={Dieter},
+           giveni={D\bibinitperiod}}}%
+        {{hash=94777ba5c1fc5df05fdcee7f5dff16fc}{%
+           family={Tropea},
+           familyi={T\bibinitperiod},
+           given={Cameron},
+           giveni={C\bibinitperiod}}}%
+        {{hash=ab4897c96af93c263b0decbb16915bf8}{%
+           family={Marschall},
+           familyi={M\bibinitperiod},
+           given={Holger},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{820f414f12b1357561cb82a91f689e33}
+      \strng{fullhash}{f88cc5b2424cfc77eced5522c8fb41ef}
+      \strng{fullhashraw}{f88cc5b2424cfc77eced5522c8fb41ef}
+      \strng{bibnamehash}{820f414f12b1357561cb82a91f689e33}
+      \strng{authorbibnamehash}{820f414f12b1357561cb82a91f689e33}
+      \strng{authornamehash}{820f414f12b1357561cb82a91f689e33}
+      \strng{authorfullhash}{f88cc5b2424cfc77eced5522c8fb41ef}
+      \strng{authorfullhashraw}{f88cc5b2424cfc77eced5522c8fb41ef}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{SoftwareX}
+      \field{title}{Load balanced {2D} and {3D} adaptive mesh refinement in {OpenFOAM}}
+      \field{volume}{10}
+      \field{year}{2019}
+      \field{pages}{100317}
+      \range{pages}{1}
+    \endentry
+    \entry{WELCH2000662}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=a5ad118dd370866add3896205c1482bd}{%
+           family={Welch},
+           familyi={W\bibinitperiod},
+           given={Samuel\bibnamedelima W.J.},
+           giveni={S\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=cc7e44d328a2dff603a2d17844402487}{%
+           family={Wilson},
+           familyi={W\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{02e0b360d1abf1fdea2bb591123a039e}
+      \strng{fullhash}{02e0b360d1abf1fdea2bb591123a039e}
+      \strng{fullhashraw}{02e0b360d1abf1fdea2bb591123a039e}
+      \strng{bibnamehash}{02e0b360d1abf1fdea2bb591123a039e}
+      \strng{authorbibnamehash}{02e0b360d1abf1fdea2bb591123a039e}
+      \strng{authornamehash}{02e0b360d1abf1fdea2bb591123a039e}
+      \strng{authorfullhash}{02e0b360d1abf1fdea2bb591123a039e}
+      \strng{authorfullhashraw}{02e0b360d1abf1fdea2bb591123a039e}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{J. Comput. Phys.}
+      \field{number}{2}
+      \field{title}{A Volume of Fluid Based Method for Fluid Flows with Phase Change}
+      \field{volume}{160}
+      \field{year}{2000}
+      \field{pages}{662\bibrangedash 682}
+      \range{pages}{21}
+    \endentry
+    \entry{TAGHIPOUR20056857}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=b3a4e1465e7a4990b6f5335756b54f80}{%
+           family={Taghipour},
+           familyi={T\bibinitperiod},
+           given={Fariborz},
+           giveni={F\bibinitperiod}}}%
+        {{hash=9f69154cfa0203ddce7ab9c5d0042eb9}{%
+           family={Ellis},
+           familyi={E\bibinitperiod},
+           given={Naoko},
+           giveni={N\bibinitperiod}}}%
+        {{hash=c162cbb3c7c435e25345cbe2cc3941fc}{%
+           family={Wong},
+           familyi={W\bibinitperiod},
+           given={Clayton},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{af46b3a75888e054568c7f4bd0748bb9}
+      \strng{fullhash}{af46b3a75888e054568c7f4bd0748bb9}
+      \strng{fullhashraw}{af46b3a75888e054568c7f4bd0748bb9}
+      \strng{bibnamehash}{af46b3a75888e054568c7f4bd0748bb9}
+      \strng{authorbibnamehash}{af46b3a75888e054568c7f4bd0748bb9}
+      \strng{authornamehash}{af46b3a75888e054568c7f4bd0748bb9}
+      \strng{authorfullhash}{af46b3a75888e054568c7f4bd0748bb9}
+      \strng{authorfullhashraw}{af46b3a75888e054568c7f4bd0748bb9}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Chem. Eng. Sci.}
+      \field{number}{24}
+      \field{title}{Experimental and computational study of gas–solid fluidized bed hydrodynamics}
+      \field{volume}{60}
+      \field{year}{2005}
+      \field{pages}{6857\bibrangedash 6867}
+      \range{pages}{11}
+    \endentry
+    \entry{cea}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=eccf554007ffa9645caad73d7cc7444a}{%
+           family={Mcbride},
+           familyi={M\bibinitperiod},
+           given={B.J.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=19079a8767b059b6e14062884a9bdcd6}{%
+           family={Gordon},
+           familyi={G\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {NASA Lewis Research Center}%
+      }
+      \strng{namehash}{175d98697c550fb79b902f00bf29656b}
+      \strng{fullhash}{175d98697c550fb79b902f00bf29656b}
+      \strng{fullhashraw}{175d98697c550fb79b902f00bf29656b}
+      \strng{bibnamehash}{175d98697c550fb79b902f00bf29656b}
+      \strng{authorbibnamehash}{175d98697c550fb79b902f00bf29656b}
+      \strng{authornamehash}{175d98697c550fb79b902f00bf29656b}
+      \strng{authorfullhash}{175d98697c550fb79b902f00bf29656b}
+      \strng{authorfullhashraw}{175d98697c550fb79b902f00bf29656b}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Computer program for calculation of complex chemical equilibrium compositions and applications}
+      \field{year}{1996}
+    \endentry
+    \entry{roache1994perspective}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=ffeba95c85993435b8236f9c850c34f2}{%
+           family={Roache},
+           familyi={R\bibinitperiod},
+           given={Patrick\bibnamedelima J},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{ffeba95c85993435b8236f9c850c34f2}
+      \strng{fullhash}{ffeba95c85993435b8236f9c850c34f2}
+      \strng{fullhashraw}{ffeba95c85993435b8236f9c850c34f2}
+      \strng{bibnamehash}{ffeba95c85993435b8236f9c850c34f2}
+      \strng{authorbibnamehash}{ffeba95c85993435b8236f9c850c34f2}
+      \strng{authornamehash}{ffeba95c85993435b8236f9c850c34f2}
+      \strng{authorfullhash}{ffeba95c85993435b8236f9c850c34f2}
+      \strng{authorfullhashraw}{ffeba95c85993435b8236f9c850c34f2}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{J. Fluids Eng.}
+      \field{title}{Perspective: a method for uniform reporting of grid refinement studies}
+      \field{volume}{116}
+      \field{year}{1994}
+      \field{pages}{405\bibrangedash 413}
+      \range{pages}{9}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

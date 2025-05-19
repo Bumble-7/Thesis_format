@@ -1,0 +1,13 @@
+\contentsline {chapter}{Abstract}{5}{chapter*.4}%
+\contentsline {chapter}{Table of Contents}{7}{chapter*.5}%
+\contentsline {chapter}{List of Figures}{9}{chapter*.5}%
+\contentsline {chapter}{List of Tables}{10}{chapter*.5}%
+\contentsline {chapter}{Nomenclature}{11}{chapter*.6}%
+\contentsline {chapter}{\numberline {1}Introduction}{14}{chapter.1}%
+\contentsline {chapter}{\numberline {2}A Comprehensive Examination of Combustion of Metal-Liquid Oxidizer Mixtures}{15}{chapter.2}%
+\contentsline {chapter}{\numberline {3}A Computational Fluid Dynamics Model of Metal Water Combustion in a Strand Burner}{16}{chapter.3}%
+\contentsline {chapter}{\numberline {4}Nano-Aluminum and Water Strand Combustion}{17}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Effects of Particle Size, Packing Density, and Equivalence Ratio on Burning rates}{18}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Conclusion and Future Scope}{19}{chapter.6}%
+\contentsline {chapter}{Appendix \uppercase {i\relax }: Calculation of heat release $\boldsymbol {(Q_r)}$}{20}{appendix*.11}%
+\contentsline {chapter}{Appendix \uppercase {ii\relax }: Burning time correlation of Mg in water vapor}{21}{appendix*.12}%

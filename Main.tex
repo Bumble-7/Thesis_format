@@ -1,0 +1,211 @@
+\documentclass[12pt]{report}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{caption}
+\usepackage{graphicx}
+\usepackage{latexsym}
+\usepackage{times}
+\usepackage[backend=biber,sorting=none]{biblatex}
+\addbibresource{References.bib}
+\usepackage{setspace}
+\usepackage{booktabs}
+\usepackage{xcolor}
+\usepackage{multirow}
+\usepackage{array}
+\usepackage{rotating}
+\usepackage{longtable}
+\usepackage{tocloft} % for organising list of figures and tables
+% \usepackage{titlesec} % for adding chpater prefix in table of contents
+\usepackage{soul}
+\setcounter{secnumdepth}{3}
+\usepackage{comment}
+% \usepackage{appendix}
+\usepackage[toc,page]{appendix} % Automatically handles TOC for appendices
+\usepackage[hidelinks]{hyperref} % for hyperlinking
+\hypersetup{
+    colorlinks=true,    % Enable colored links
+    linkcolor=blue,     % Blue for inline links (equation numbers, section references)
+    citecolor=blue,     % Blue for citations
+    urlcolor=blue,      % Blue for URLs
+}
+% \usepackage{etoolbox}
+% \makeatletter
+% % Black links specifically for TOC, LOF, and LOT
+% \hypersetup{
+%     linktoc=all,        % Hyperlink both names and page numbers in TOC
+%     linkcolor=black     % Set color for TOC/LOF/LOT links to black
+% }
+% \makeatother
+
+
+% using tikz package and defining the boxes
+\usepackage{tikz}
+\usetikzlibrary{shapes.geometric, arrows}
+\tikzstyle{box} = [rectangle, rounded corners, minimum width=4cm, minimum height=1cm,text centered, text width=4cm, draw=black]
+\tikzstyle{box3} = [rectangle, rounded corners, minimum width=3cm, minimum height=1cm,text centered, text width=3cm, draw=black]
+\tikzstyle{box4} = [rectangle, rounded corners, minimum width=4cm, minimum height=1cm,text centered, text width=4cm, draw=black]
+\tikzstyle{box7} = [rectangle, rounded corners, minimum width=7cm, minimum height=1cm,text centered, text width=7cm, draw=black]
+\tikzstyle{box10} = [rectangle, rounded corners, minimum width=10cm, minimum height=1cm,text centered, text width=10cm, draw=black]
+\tikzstyle{box11} = [rectangle, rounded corners, minimum width=11cm, minimum height=1cm,text centered, text width=9cm, draw=black]
+\tikzstyle{box8} = [rectangle, rounded corners, minimum width=6cm, minimum height=1cm,text centered, text width=6cm, draw=black]
+
+
+% user defined commands
+\newcommand{\thTitle}{Modeling and Simulation of Combustion of Metal-Liquid Oxidizer Propellants}
+\newcolumntype{x}[1]{>{\centering\arraybackslash\hspace{0pt}}p{#1}}
+\newcommand{\rom}[1]{\uppercase\expandafter{\romannumeral #1\relax}}
+\newcommand{\bnabla}{\boldsymbol{\nabla}}
+\newcommand{\bdot}{\boldsymbol{\cdot}}
+\newcommand{\Ug}{\boldsymbol{u_g}}
+\newcommand{\Up}{\boldsymbol{u_p}}
+\newcommand{\Ul}{\boldsymbol{u_l}}
+\newcommand{\Um}{\boldsymbol{u_m}}
+\newcommand{\U}{\boldsymbol{u}}
+\newcommand{\of}[1]{\left(#1\right)}
+\newcommand{\ofs}[1]{\left[#1\right]}
+\newcommand{\transfer}[3]{\dot{#1}^{'''}_{#2_{\hspace{2pt}\xrightarrow[]{}} #3}}
+\renewcommand{\contentsname}{Table of Contents}
+\newcommand{\eqnhl}[1]{\colorbox{yellow}{$\displaystyle #1$}}
+
+% Uncomment the follwing lines to remove the highlight
+% \renewcommand{\eqnhl}[1]{#1}
+% \renewcommand\hl[1]{#1}
+
+
+\doublespacing
+\addbibresource{references.bib}
+
+\begin{document}
+
+%-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Title page ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+\begin{center}
+    \LARGE
+    \singlespacing
+    \textbf{\thTitle}
+\end{center}
+
+\vspace{15mm}
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.4\linewidth]{Images/IITGN_logo.png}
+\end{figure}
+\begin{center}
+    \large
+    A Dissertation Presented to the Faculty of the \\
+    Indian Institute of Technology Gandhinagar
+\end{center}
+
+\vspace{15mm}
+\begin{flushleft}
+    \large
+    By, \\
+    {\setstretch{1.5}
+    Prasanna P Kulkarni, \\
+    In partial fulfillment of requirements for the degree of \\
+    \vspace{-1mm}
+    Doctor of Philosophy, 2025
+    }
+\end{flushleft}
+
+
+%-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Declaration ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+\chapter*{Declaration}
+I, Prasanna P Kulkarni, hereby declare that the research reported in this thesis titled ``\textbf{\thTitle}'' was carried out by me in the Department of Mechanical Engineering, Indian Institute of Technology Gandhinagar, under the supervision of Prof. Dilip Srinivas Sundaram. I also declare that this work has not been submitted elsewhere for a degree.
+
+\begin{flushright}
+    Prasanna P Kulkarni \\
+    (Roll no.: 17210069)
+\end{flushright}
+
+%-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Certificate ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+\chapter*{Certificate}
+It is certified that the work reported in this thesis titled ``\textbf{\thTitle}'' has been carried out by Prasanna P Kulkarni (17210069), at Indian Institute of Technology Gandhinagar under my supervision, and this work has not been submitted elsewhere for a degree.
+
+\begin{flushright}
+    Dr. Dilip Srinivas Sundaram \\
+    Associate Professor, Mechanical Engineering \\
+    Indian Institute of Technology Gandhinagar \\
+    Palaj – 382355, Gandhinagar, Gujarat, India
+\end{flushright}
+
+%-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Dedication ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+% \chapter*{Dedication}
+\newpage
+\vfill
+\begin{center}
+    \large
+    \topskip0pt
+    \vspace*{\fill}
+    \textit{Dedication}
+    \vspace*{\fill}
+\end{center} 
+\vfill
+
+%-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Abstract ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+\chapter*{Abstract}
+\addcontentsline{toc}{chapter}{Abstract} 
+\input{Chapters/Abstract.tex}
+
+\chapter*{Acknowledgements}
+\input{Chapters/Acknowledgments.tex}
+
+\newpage
+\addcontentsline{toc}{chapter}{Table of Contents}
+\renewcommand{\cftchappresnum}{Chapter~}% Add "Chapter" before chapter number
+\renewcommand{\cftchapaftersnum}{:}% Add colon after chapter number
+\setlength{\cftchapnumwidth}{5em} % Adjust width for chapter numbers in TOC
+\tableofcontents 
+
+\newpage
+\addcontentsline{toc}{chapter}{List of Figures}
+{%
+\let\oldnumberline\numberline%
+\renewcommand{\numberline}[1]{\figurename~#1: }% % Add colon after figure number
+\setlength{\cftfignumwidth}{5em} % Reserve space for "Figure X: "
+% \setlength{\cftfigindent}{2em}   % Indent the whole line
+\listoffigures%
+}
+
+\newpage
+\addcontentsline{toc}{chapter}{List of Tables}
+{%
+\let\oldnumberline\numberline%
+\renewcommand{\numberline}[1]{\tablename~#1: }% % Add colon after figure number
+\setlength{\cfttabnumwidth}{4.5em} % Reserve space for "Figure X: "
+% \setlength{\cftfigindent}{2em}   % Indent the whole line
+\listoftables%
+}
+
+
+\chapter*{Nomenclature}
+\addcontentsline{toc}{chapter}{Nomenclature} 
+\input{Chapters/Nomenclature.tex}
+
+\chapter{Introduction}
+\input{Chapters/Introduction}
+	
+\chapter{A Comprehensive Examination of Combustion of Metal-Liquid Oxidizer Mixtures}
+\input{Chapters/Module1}
+
+\chapter{A Computational Fluid Dynamics Model of Metal Water Combustion in a Strand Burner}
+\input{Chapters/Module2}
+
+\chapter{Nano-Aluminum and Water Strand Combustion}
+\input{Chapters/Module3}
+
+\chapter{Effects of Particle Size, Packing Density, and Equivalence Ratio on Burning rates}
+\input{Chapters/Module4}
+
+\chapter{Conclusion and Future Scope}
+\input{Chapters/Conclustion_FS.tex}
+
+% Appendices
+\appendix % Start appendix section
+\renewcommand{\thechapter}{\Alph{chapter}} % Use letters for appendix numbering
+
+\input{Chapters/Appendix.tex}
+
+\printbibliography
+\end{document}
+
